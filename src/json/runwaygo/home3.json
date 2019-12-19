@@ -1,0 +1,201 @@
+{
+    "code": 0,
+    "content": {
+        "hotProductDtos": {            
+            "pic": "https://img.alicdn.com/imgextra/i4/6000000002624/TB2QYtubk7OyuJjSsplXXXqdpXa_!!0-tbCommonAudio.jpg_320x320q90.jpg",
+            "title": "热门货源",
+            "tagIcon": "https://img.alicdn.com/tfs/TB1fc6SdKuSBuNjy1XcXXcYjFXa-36-36.png",
+            "list": [
+                {
+                    "product_id": 915938,
+                    "size": ["S","M","X","XL","XXL","XXXL","XXXXL","S","M","X","XL","XXL","XXXL","XXXXL"],
+                    "brandName": "RESHAKE",
+                    "productName": "reshake华菲型格男装2019新款 夏T恤情侣装半袖打底衫短袖男潮牌",
+                    "marketPrice": "€ 299",
+                    "tags": ["黑五专场", "双11大促"],
+                    "price": "€ 179",
+                    "discount": "1折",
+                    "pic": "https://img01.wconceptimg.cn/media/catalog/product/S/i/Simg_15712041412599_l.jpg"
+                }, {
+                    "product_id": 915933,
+                    "size": ["S","M","X","XL","XXL","XXXL","XXXXL"],
+                    "brandName": "RESHAKE",
+                    "productName": "reshake华菲型格2019夏新款短袖T恤男潮牌 宽松半袖打底衫夏上衣",
+                    "marketPrice": "€ 299",
+                    "tags": ["黑五专场", "双11大促"],
+                    "price": "€ 161",
+                    "discount": "1折",
+                    "pic": "https://img01.wconceptimg.cn/media/catalog/product/S/i/Simg_15713645746529_l.jpg"
+                }, {
+                    "product_id": 915927,
+                    "size": ["S","M","X","XL","XXL","XXXL","XXXXL"],
+                    "brandName": "RESHAKE",
+                    "productName": "reshake华菲型格2019夏季新款短袖T恤男宽松夏装半袖打底衫上衣潮",
+                    "marketPrice": "€ 259",
+                    "tags": ["黑五专场", "双11大促"],
+                    "price": "€ 143",
+                    "discount": "1折",
+                    "pic": "https://img01.wconceptimg.cn/media/catalog/product/S/i/Simg_15712059768402_l.jpg"
+                }, {
+                    "product_id": 915918,
+                    "size": ["S","M","X","XL","XXL","XXXL","XXXXL"],
+                    "brandName": "RESHAKE",
+                    "productName": "reshake华菲型格2019夏季新款韩版潮流学生半袖打底衫短袖T恤上衣",
+                    "marketPrice": "€ 359",
+                    "price": "€ 197",
+                    "discount": "1折",
+                    "pic": "https://img01.wconceptimg.cn/media/catalog/product/S/i/Simg_15712092629239_l.jpg"
+                }, {
+                    "product_id": 915847,
+                    "size": ["S","M","X","XL","XXL","XXXL","XXXXL"],
+                    "brandName": "RESHAKE",
+                    "productName": "reshake华菲型格男装夏季圆领纯棉半袖情侣装短袖T恤男潮牌",
+                    "marketPrice": "€ 199",
+                    "price": "€ 107",
+                    "discount": "1折",
+                    "pic": "https://img01.wconceptimg.cn/media/catalog/product/S/i/Simg_15712188628206_l.jpg"
+                }, {
+                    "product_id": 915844,
+                    "size": ["S","M","X","XL","XXL","XXXL","XXXXL"],
+                    "brandName": "RESHAKE",
+                    "productName": "reshake华菲型格情侣装夏新款字母纯棉圆领T恤短袖男潮牌",
+                    "marketPrice": "€ 199",
+                    "tags": ["黑五专场", "双11大促"],
+                    "price": "€ 107",
+                    "discount": "1折",
+                    "pic": "https://img01.wconceptimg.cn/media/catalog/product/S/i/Simg_15712191402863_l.jpg"
+                }, {
+                    "product_id": 915835,
+                    "size": ["S","M","X","XL","XXL","XXXL","XXXXL"],
+                    "brandName": "RESHAKE",
+                    "productName": "reshake华菲型格纯棉短袖男夏欧美字母粉色t恤潮宽松T恤",
+                    "marketPrice": "€ 299",
+                    "price": "€ 161",
+                    "discount": "1折",
+                    "pic": "https://img01.wconceptimg.cn/media/catalog/product/S/i/Simg_15712194923932_l.jpg"
+                }, {
+                    "product_id": 915826,
+                    "size": ["S","M","X","XL","XXL","XXXL","XXXXL"],
+                    "brandName": "RESHAKE",
+                    "productName": "reshake华菲型格男士t恤短袖潮夏季新款纯棉V领boy男装衣服",
+                    "marketPrice": "€ 299",
+                    "price": "€ 161",
+                    "discount": "1折",
+                    "pic": "https://img01.wconceptimg.cn/media/catalog/product/S/i/Simg_15712199058133_l.jpg"
+                }, {
+                    "product_id": 915817,
+                    "size": ["S","M","X","XL","XXL","XXXL","XXXXL"],
+                    "brandName": "RESHAKE",
+                    "productName": "reshake华菲型格男短袖T恤 夏新款潮男龙虾字母印花上衣",
+                    "marketPrice": "€ 299",
+                    "tags": ["黑五专场", "双11大促"],
+                    "price": "€ 179",
+                    "discount": "1折",
+                    "pic": "https://img01.wconceptimg.cn/media/catalog/product/S/i/Simg_15712203505028_l.jpg"
+                }, {
+                    "product_id": 915804,
+                    "size": ["S","M","X","XL","XXL","XXXL","XXXXL"],
+                    "brandName": "RESHAKE",
+                    "productName": "reshake华菲型格夏新款男士纯棉宽松印花潮流休闲短袖T恤",
+                    "marketPrice": "€ 299",
+                    "price": "€ 107",
+                    "discount": "0折",
+                    "pic": "https://img01.wconceptimg.cn/media/catalog/product/S/i/Simg_15712209499060_l.jpg"
+                }, {
+                    "product_id": 915791,
+                    "size": ["S","M","X","XL","XXL","XXXL","XXXXL"],
+                    "brandName": "killwinner",
+                    "productName": "killwinner春秋季街头百搭个性情侣长袖男女潮牌运动圆领T恤",
+                    "marketPrice": "€ 199",
+                    "price": "€ 151",
+                    "discount": "1折",
+                    "pic": "https://img01.wconceptimg.cn/media/catalog/product/S/i/Simg_15716272511978_l.jpg"
+                }, {
+                    "product_id": 915773,
+                    "size": ["S","M","X","XL","XXL","XXXL","XXXXL"],
+                    "brandName": "killwinner",
+                    "productName": "killwinner圆领男潮牌套头火焰打底衫春秋宽松长袖t恤上衣女",
+                    "marketPrice": "€ 199",
+                    "price": "€ 160",
+                    "discount": "1折",
+                    "pic": "https://img01.wconceptimg.cn/media/catalog/product/S/i/Simg_15716277233041_l.jpg"
+                }, {
+                    "product_id": 915744,
+                    "size": ["S","M","X","XL","XXL","XXXL","XXXXL"],
+                    "brandName": "killwinner",
+                    "productName": "killwinner2019秋季新款宇宙印花国潮卫衣砂洗长袖T恤男女上衣",
+                    "marketPrice": "€ 199",
+                    "tags": ["黑五专场", "双11大促"],
+                    "price": "€ 160",
+                    "discount": "1折",
+                    "pic": "https://img01.wconceptimg.cn/media/catalog/product/S/i/Simg_15716294041416_l.jpg"
+                }, {
+                    "product_id": 914097,
+                    "size": ["S","M","X","XL","XXL","XXXL","XXXXL"],
+                    "brandName": "CFRIENDS",
+                    "productName": "CFRIENDS圆领胸前甲骨文鲲形后背印花T恤",
+                    "marketPrice": "€ 699",
+                    "price": "€ 179",
+                    "discount": "0折",
+                    "pic": "https://img01.wconceptimg.cn/media/catalog/product/S/i/Simg_15712130773613_l.jpg"
+                }, {
+                    "product_id": 914093,
+                    "size": ["S","M","X","XL","XXL","XXXL","XXXXL"],
+                    "brandName": "CFRIENDS",
+                    "productName": "CFRIENDS圆领甲骨文古蜀国文化印花T恤",
+                    "marketPrice": "€ 699",
+                    "tags": ["黑五专场", "双11大促"],
+                    "price": "€ 164",
+                    "discount": "0折",
+                    "pic": "https://img01.wconceptimg.cn/media/catalog/product/S/i/Simg_15712133614262_l.jpg"
+                }, {
+                    "product_id": 914086,
+                    "size": ["S","M","X","XL","XXL","XXXL","XXXXL"],
+                    "brandName": "CFRIENDS",
+                    "productName": "CFRIENDS圆领字母C西周窃取纹立方体印花T恤",
+                    "marketPrice": "€ 599",
+                    "price": "€ 149",
+                    "discount": "0折",
+                    "pic": "https://img01.wconceptimg.cn/media/catalog/product/S/i/Simg_15712137177829_l.jpg"
+                }, {
+                    "product_id": 914082,
+                    "size": ["S","M","X","XL","XXL","XXXL","XXXXL"],
+                    "brandName": "CFRIENDS",
+                    "productName": "CFRIENDS圆领胸前未来印花口袋T恤",
+                    "marketPrice": "€ 599",
+                    "price": "€ 149",
+                    "discount": "0折",
+                    "pic": "https://img01.wconceptimg.cn/media/catalog/product/S/i/Simg_15712145229667_l.jpg"
+                }, {
+                    "product_id": 913930,
+                    "size": ["S","M","X","XL","XXL","XXXL","XXXXL"],
+                    "brandName": "CFRIENDS",
+                    "productName": "CFRIENDS圆领青铜兽面纹饰胸前大印花T恤",
+                    "marketPrice": "€ 599",
+                    "tags": ["黑五专场", "双11大促"],
+                    "price": "€ 149",
+                    "discount": "0折",
+                    "pic": "https://img01.wconceptimg.cn/media/catalog/product/S/i/Simg_15712156782392_l.jpg"
+                }, {
+                    "product_id": 913347,
+                    "size": ["S","M","X","XL","XXL","XXXL","XXXXL"],
+                    "brandName": "2nd Witness",
+                    "productName": "倒字恶搞笑脸T恤（黑白）",
+                    "marketPrice": "€ 189",
+                    "price": "€ 59",
+                    "discount": "0折",
+                    "pic": "https://img01.wconceptimg.cn/media/catalog/product/S/i/Simg_15711336516945_l.jpg"
+                }, {
+                    "product_id": 913342,
+                    "size": ["S","M","X","XL","XXL","XXXL","XXXXL"],
+                    "brandName": "2nd Witness",
+                    "productName": "复古 玫瑰印花 短袖T恤",
+                    "marketPrice": "€ 239",
+                    "price": "€ 99",
+                    "discount": "0折",
+                    "pic": "https://img01.wconceptimg.cn/media/catalog/product/S/i/Simg_15711309216182_l.jpg"
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,173 @@
+{
+    "code": 0,
+    "content": {
+        "hotProductDtos": {            
+            "pic": "https://img.alicdn.com/imgextra/i4/6000000002624/TB2QYtubk7OyuJjSsplXXXqdpXa_!!0-tbCommonAudio.jpg_320x320q90.jpg",
+            "title": "热门货源",
+            "tagIcon": "https://img.alicdn.com/tfs/TB1fc6SdKuSBuNjy1XcXXcYjFXa-36-36.png",
+            "list": [
+                {
+                    "product_id": 886089,
+                    "brandName": "SEARCH410",
+                    "productName": "宽松落肩圆环search字母印染男女同款圆领长袖T恤_黄色",
+                    "marketPrice": "€ 273",
+                    "price": "€ 224",
+                    "discount": "1折",
+                    "pic": "https://img01.wconceptimg.cn/media/catalog/product/w/i/wimg_451233237R.jpg"
+                }, {
+                    "product_id": 885268,
+                    "brandName": "GRAY HUE",
+                    "productName": "宽松落肩竖条纹口袋拼接字母徽章刺绣男女同款圆领长袖T恤_藏青色",
+                    "marketPrice": "€ 391",
+                    "price": "€ 354",
+                    "discount": "1折",
+                    "pic": "https://img01.wconceptimg.cn/media/catalog/product/w/i/wimg_451233437R.jpg"
+                }, {
+                    "product_id": 885264,
+                    "brandName": "GRAY HUE",
+                    "productName": "宽松落肩竖条纹口袋拼接字母徽章刺绣男女同款圆领长袖T恤_白色",
+                    "marketPrice": "€ 391",
+                    "price": "€ 354",
+                    "discount": "1折",
+                    "pic": "https://img01.wconceptimg.cn/media/catalog/product/w/i/wimg_451233438R.jpg"
+                }, {
+                    "product_id": 885101,
+                    "brandName": "GRAY HUE",
+                    "productName": "宽松落肩撞色条纹徽章刺绣男女同款长袖T恤_绿色+白色",
+                    "marketPrice": "€ 537",
+                    "price": "€ 484",
+                    "discount": "1折",
+                    "pic": "https://img01.wconceptimg.cn/media/catalog/product/w/i/wimg_451233434R.jpg"
+                }, {
+                    "product_id": 885097,
+                    "brandName": "GRAY HUE",
+                    "productName": "宽松落肩撞色条纹徽章刺绣男女同款长袖T恤_红色+蓝色",
+                    "marketPrice": "€ 537",
+                    "price": "€ 484",
+                    "discount": "1折",
+                    "pic": "https://img01.wconceptimg.cn/media/catalog/product/w/i/wimg_451233435R.jpg"
+                }, {
+                    "product_id": 885063,
+                    "brandName": "GRAY HUE",
+                    "productName": "宽松落肩阴影效果LOGO字母印染男女同款圆领长袖T恤_白色",
+                    "marketPrice": "€ 324",
+                    "price": "€ 293",
+                    "discount": "1折",
+                    "pic": "https://img01.wconceptimg.cn/media/catalog/product/w/i/wimg_451233430R.jpg"
+                }, {
+                    "product_id": 885059,
+                    "brandName": "GRAY HUE",
+                    "productName": "宽松落肩阴影效果LOGO字母印染男女同款圆领长袖T恤_黑色",
+                    "marketPrice": "€ 324",
+                    "price": "€ 293",
+                    "discount": "1折",
+                    "pic": "https://img01.wconceptimg.cn/media/catalog/product/w/i/wimg_451233429R.jpg"
+                }, {
+                    "product_id": 885051,
+                    "brandName": "GRAY HUE",
+                    "productName": "宽松落肩条纹刺绣点缀男女同款POLO长袖T恤_深绿色",
+                    "marketPrice": "€ 537",
+                    "price": "€ 484",
+                    "discount": "1折",
+                    "pic": "https://img01.wconceptimg.cn/media/catalog/product/w/i/wimg_451233422R.jpg"
+                }, {
+                    "product_id": 884908,
+                    "brandName": "GRAY HUE",
+                    "productName": "宽松胸口LOGO字母后背字母图片印染男女同款圆领长袖T恤_白色",
+                    "marketPrice": "€ 344",
+                    "price": "€ 312",
+                    "discount": "1折",
+                    "pic": "https://img01.wconceptimg.cn/media/catalog/product/w/i/wimg_451233424R.jpg"
+                }, {
+                    "product_id": 884891,
+                    "brandName": "GRAY HUE",
+                    "productName": "宽松胸口G Hue字母印染男女同款圆领长袖T恤_黄色",
+                    "marketPrice": "€ 324",
+                    "price": "€ 293",
+                    "discount": "1折",
+                    "pic": "https://img01.wconceptimg.cn/media/catalog/product/w/i/wimg_451233425R.jpg"
+                }, {
+                    "product_id": 884887,
+                    "brandName": "GRAY HUE",
+                    "productName": "宽松倒写字母笑脸图案印染男女同款圆领长袖T恤_蓝色",
+                    "marketPrice": "€ 344",
+                    "price": "€ 312",
+                    "discount": "1折",
+                    "pic": "https://img01.wconceptimg.cn/media/catalog/product/w/i/wimg_451233426R.jpg"
+                }, {
+                    "product_id": 884877,
+                    "brandName": "GRAY HUE",
+                    "productName": "宽松胸口后背空心字母印染男女同款圆领长袖T恤_浅卡其色",
+                    "marketPrice": "€ 344",
+                    "price": "€ 312",
+                    "discount": "1折",
+                    "pic": "https://img01.wconceptimg.cn/media/catalog/product/w/i/wimg_451233427R.jpg"
+                }, {
+                    "product_id": 884873,
+                    "brandName": "GRAY HUE",
+                    "productName": "黄仁俊原款宽松落肩条纹刺绣点缀男女同款POLO长袖T恤_黑色",
+                    "marketPrice": "€ 537",
+                    "price": "€ 484",
+                    "discount": "1折",
+                    "pic": "https://img01.wconceptimg.cn/media/catalog/product/w/i/wimg_451233421R.jpg"
+                }, {
+                    "product_id": 879277,
+                    "brandName": "OWL91",
+                    "productName": "宽松衣领拼接细节男士长袖T恤_黑色",
+                    "marketPrice": "€ 364",
+                    "price": "€ 347",
+                    "discount": "1折",
+                    "pic": "https://img01.wconceptimg.cn/media/catalog/product/w/i/wimg_451228551_5841702.jpg"
+                }, {
+                    "product_id": 879274,
+                    "brandName": "OWL91",
+                    "productName": "宽松衣领拼接细节男士长袖T恤_黄色",
+                    "marketPrice": "€ 364",
+                    "price": "€ 347",
+                    "discount": "1折",
+                    "pic": "https://img01.wconceptimg.cn/media/catalog/product/w/i/wimg_451228552_5841703.jpg"
+                }, {
+                    "product_id": 879271,
+                    "brandName": "OWL91",
+                    "productName": "宽松衣领拼接细节男士长袖T恤_藏青色",
+                    "marketPrice": "€ 364",
+                    "price": "€ 347",
+                    "discount": "1折",
+                    "pic": "https://img01.wconceptimg.cn/media/catalog/product/w/i/wimg_451228550_5841701.jpg"
+                }, {
+                    "product_id": 883715,
+                    "brandName": "ANDERSSON BELL",
+                    "productName": "KR 19 F/W宽松落肩反穿设计LOGO字母刺绣男女同款圆领长袖T恤_淡棕色",
+                    "marketPrice": "€ 701",
+                    "price": "€ 701",
+                    "discount": "1折",
+                    "pic": "https://img01.wconceptimg.cn/media/catalog/product/w/i/wimg_451234238R.jpg"
+                }, {
+                    "product_id": 883031,
+                    "brandName": "ANDERSSON BELL",
+                    "productName": "KR 19 F/W宽松落肩反穿设计LOGO字母刺绣男女同款圆领长袖T恤_黑色",
+                    "marketPrice": "€ 701",
+                    "price": "€ 701",
+                    "discount": "1折",
+                    "pic": "https://img01.wconceptimg.cn/media/catalog/product/w/i/wimg_451234239R.jpg"
+                }, {
+                    "product_id": 883011,
+                    "brandName": "ANDERSSON BELL",
+                    "productName": "KR 19 F/W宽松落肩罗纹拼接长袖男士圆领T恤_浅蓝色",
+                    "marketPrice": "€ 329",
+                    "price": "€ 329",
+                    "discount": "1折",
+                    "pic": "https://img01.wconceptimg.cn/media/catalog/product/w/i/wimg_451234235R.jpg"
+                }, {
+                    "product_id": 883001,
+                    "brandName": "ANDERSSON BELL",
+                    "productName": "KR 19 F/W宽松落肩罗纹拼接长袖男士圆领T恤_黑色",
+                    "marketPrice": "€ 329",
+                    "price": "€ 329",
+                    "discount": "1折",
+                    "pic": "https://img01.wconceptimg.cn/media/catalog/product/w/i/wimg_451234232R.jpg"
+                }
+            ]
+        }
+    }
+}

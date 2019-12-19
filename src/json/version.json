@@ -1,0 +1,10 @@
+{
+    "code": 0,
+    "content": {
+        "version": "V2.0.0",
+        "content": "1. 修复bug，修复bug，修复bug，修复bug，修复bug，修复bug，\n2. 新增功能\n3. 新增功能\n4. 来自locallhost的8080访问",
+        "forcedState": 0,
+        "shouldUpdate": 1,
+        "apkUrl": "https://....."
+    }
+  }

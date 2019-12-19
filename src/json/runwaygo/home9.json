@@ -1,0 +1,173 @@
+{
+    "code": 0,
+    "content": {
+        "hotProductDtos": {            
+            "pic": "https://img.alicdn.com/imgextra/i4/6000000002624/TB2QYtubk7OyuJjSsplXXXqdpXa_!!0-tbCommonAudio.jpg_320x320q90.jpg",
+            "title": "热门货源",
+            "tagIcon": "https://img.alicdn.com/tfs/TB1fc6SdKuSBuNjy1XcXXcYjFXa-36-36.png",
+            "list": [
+                {
+                    "product_id": 865695,
+                    "brandName": "NOHANT",
+                    "productNname": "宽松基础款口袋LOGO标签细节男士长袖T恤_白色",
+                    "marketPrice": "€ 662",
+                    "price": "€ 662",
+                    "discount": "1折",
+                    "pic": "https://img01.wconceptimg.cn/media/catalog/product/w/i/wimg_451220963_5799081.jpg"
+                }, {
+                    "product_id": 865691,
+                    "brandName": "NOHANT",
+                    "productNname": "宽松基础款口袋LOGO标签细节男女同款长袖T恤_灰色",
+                    "marketPrice": "€ 662",
+                    "price": "€ 662",
+                    "discount": "1折",
+                    "pic": "https://img01.wconceptimg.cn/media/catalog/product/w/i/wimg_451220962_5799080.jpg"
+                }, {
+                    "product_id": 865537,
+                    "brandName": "LAYER UNION",
+                    "productNname": "加大版小LOGO字母男士长袖T恤_白色",
+                    "marketPrice": "€ 256",
+                    "price": "€ 256",
+                    "discount": "1折",
+                    "pic": "https://img01.wconceptimg.cn/media/catalog/product/w/i/wimg_451220926_5799047.jpg"
+                }, {
+                    "product_id": 865532,
+                    "brandName": "LAYER UNION",
+                    "productNname": "加大版圆形LOGO字母印染男士长袖T恤_粉色",
+                    "marketPrice": "€ 243",
+                    "price": "€ 220",
+                    "discount": "1折",
+                    "pic": "https://img01.wconceptimg.cn/media/catalog/product/w/i/wimg_451220927_5799048.jpg"
+                }, {
+                    "product_id": 865526,
+                    "brandName": "LAYER UNION",
+                    "productNname": "加大版不对称剪切拼色走线男士长袖T恤_黑色",
+                    "marketPrice": "€ 243",
+                    "price": "€ 220",
+                    "discount": "1折",
+                    "pic": "https://img01.wconceptimg.cn/media/catalog/product/w/i/wimg_451220929_5799050.jpg"
+                }, {
+                    "product_id": 865520,
+                    "brandName": "LAYER UNION",
+                    "productNname": "加大版不对称剪切拼色走线男士长袖T恤_白色",
+                    "marketPrice": "€ 243",
+                    "price": "€ 220",
+                    "discount": "1折",
+                    "pic": "https://img01.wconceptimg.cn/media/catalog/product/w/i/wimg_451220928_5799049.jpg"
+                }, {
+                    "product_id": 865407,
+                    "brandName": "TSMLXLT",
+                    "productNname": "TSMLXLT【涂鸦系列】 个性短袖T恤_本白/蒲公英黄",
+                    "marketPrice": "€ 299",
+                    "price": "€ 299",
+                    "discount": "1折",
+                    "pic": "https://img01.wconceptimg.cn/media/catalog/product/S/i/Simg_15668929002704_l.jpg"
+                }, {
+                    "product_id": 865386,
+                    "brandName": "TSMLXLT",
+                    "productNname": "TSMLXLT 【smiley联名】笑脸联名 宽松拼接短袖T恤_本白/摩登介黄",
+                    "marketPrice": "€ 369",
+                    "price": "€ 369",
+                    "discount": "1折",
+                    "pic": "https://img01.wconceptimg.cn/media/catalog/product/S/i/Simg_15668740315431_l.jpg"
+                }, {
+                    "product_id": 863571,
+                    "brandName": "Camon",
+                    "productNname": "男士动物保护黑色字母圆领短袖T恤",
+                    "marketPrice": "€ 199",
+                    "price": "€ 79",
+                    "discount": "0折",
+                    "pic": "https://img01.wconceptimg.cn/media/catalog/product/S/i/Simg_15664398446584_l.jpg"
+                }, {
+                    "product_id": 863562,
+                    "brandName": "Camon",
+                    "productNname": "纯棉灰色字母鲨鱼图案潮牌男士短袖圆领T恤",
+                    "marketPrice": "€ 199",
+                    "price": "€ 79",
+                    "discount": "0折",
+                    "pic": "https://img01.wconceptimg.cn/media/catalog/product/S/i/Simg_15664406424284_l.jpg"
+                }, {
+                    "product_id": 863460,
+                    "brandName": "TSMLXLT",
+                    "productNname": "TSMLXLT 【Smiley联名】笑脸联名圆领短袖T恤_火神黑",
+                    "marketPrice": "€ 369",
+                    "price": "€ 369",
+                    "discount": "1折",
+                    "pic": "https://img01.wconceptimg.cn/media/catalog/product/S/i/Simg_15668162344232_l.jpg"
+                }, {
+                    "product_id": 861123,
+                    "brandName": "BLACX_YOHANIX",
+                    "productNname": "宽松落肩TIGER汽车图片字母印染男女同款圆领短袖T恤_天蓝色",
+                    "marketPrice": "€ 523",
+                    "price": "€ 523",
+                    "discount": "1折",
+                    "pic": "https://img01.wconceptimg.cn/media/catalog/product/w/i/wimg_451217501_5780366.jpg"
+                }, {
+                    "product_id": 861119,
+                    "brandName": "BLACX_YOHANIX",
+                    "productNname": "宽松落肩TIGER汽车图片字母印染男女同款圆领短袖T恤_黑色",
+                    "marketPrice": "€ 523",
+                    "price": "€ 523",
+                    "discount": "1折",
+                    "pic": "https://img01.wconceptimg.cn/media/catalog/product/w/i/wimg_451217502_5780367.jpg"
+                }, {
+                    "product_id": 861107,
+                    "brandName": "BLACX_YOHANIX",
+                    "productNname": "宽松落肩HORSE汽车图片印染男女同款圆领短袖T恤_黑色",
+                    "marketPrice": "€ 523",
+                    "price": "€ 523",
+                    "discount": "1折",
+                    "pic": "https://img01.wconceptimg.cn/media/catalog/product/w/i/wimg_451217498_5780363.jpg"
+                }, {
+                    "product_id": 861103,
+                    "brandName": "BLACX_YOHANIX",
+                    "productNname": "宽松落肩HORSE汽车图片印染男女同款圆领短袖T恤_紫色",
+                    "marketPrice": "€ 523",
+                    "price": "€ 523",
+                    "discount": "1折",
+                    "pic": "https://img01.wconceptimg.cn/media/catalog/product/w/i/wimg_451217497_5780362.jpg"
+                }, {
+                    "product_id": 861099,
+                    "brandName": "BLACX_YOHANIX",
+                    "productNname": "宽松落肩BIRD汽车图片印染男女同款圆领短袖T恤_黑色",
+                    "marketPrice": "€ 523",
+                    "price": "€ 523",
+                    "discount": "1折",
+                    "pic": "https://img01.wconceptimg.cn/media/catalog/product/w/i/wimg_451217494_5780359.jpg"
+                }, {
+                    "product_id": 861095,
+                    "brandName": "BLACX_YOHANIX",
+                    "productNname": "宽松落肩BIRD汽车图片印染男女同款圆领短袖T恤_黄色",
+                    "marketPrice": "€ 523",
+                    "price": "€ 523",
+                    "discount": "1折",
+                    "pic": "https://img01.wconceptimg.cn/media/catalog/product/w/i/wimg_451217493_5780358.jpg"
+                }, {
+                    "product_id": 861091,
+                    "brandName": "BLACX_YOHANIX",
+                    "productNname": "宽松落肩SWAN汽车图片字母印染男女同款圆领短袖T恤_黑色",
+                    "marketPrice": "€ 523",
+                    "price": "€ 523",
+                    "discount": "1折",
+                    "pic": "https://img01.wconceptimg.cn/media/catalog/product/w/i/wimg_451217492_5780357.jpg"
+                }, {
+                    "product_id": 861087,
+                    "brandName": "BLACX_YOHANIX",
+                    "productNname": "宽松落肩SWAN汽车图片字母印染男女同款圆领短袖T恤_紫色",
+                    "marketPrice": "€ 523",
+                    "price": "€ 523",
+                    "discount": "1折",
+                    "pic": "https://img01.wconceptimg.cn/media/catalog/product/w/i/wimg_451217491_5780356.jpg"
+                }, {
+                    "product_id": 861083,
+                    "brandName": "BLACX_YOHANIX",
+                    "productNname": "宽松落肩FOX汽车图片印染男女同款圆领短袖T恤_蓝色",
+                    "marketPrice": "€ 523",
+                    "price": "€ 523",
+                    "discount": "1折",
+                    "pic": "https://img01.wconceptimg.cn/media/catalog/product/w/i/wimg_451217489_5780354.jpg"
+                }
+            ]
+        }
+    }
+}

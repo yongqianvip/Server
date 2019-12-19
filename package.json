@@ -1,0 +1,15 @@
+{
+  "name": "crm_server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "yongqianvip",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "react-native-video-player": "git://github.com/yongqianvip/react-native-video-player.git#4.4.4"
+  }
+}

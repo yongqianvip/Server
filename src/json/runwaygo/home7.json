@@ -1,0 +1,173 @@
+{
+    "code": 0,
+    "content": {
+        "hotProductDtos": {            
+            "pic": "https://img.alicdn.com/imgextra/i4/6000000002624/TB2QYtubk7OyuJjSsplXXXqdpXa_!!0-tbCommonAudio.jpg_320x320q90.jpg",
+            "title": "热门货源",
+            "tagIcon": "https://img.alicdn.com/tfs/TB1fc6SdKuSBuNjy1XcXXcYjFXa-36-36.png",
+            "list": [
+                {
+                    "product_id": 878088,
+                    "brandName": "XTONZ",
+                    "productName": "简约纯色基础款男女同款长袖T恤_黑色",
+                    "marketPrice": "€ 226",
+                    "price": "€ 187",
+                    "discount": "1折",
+                    "pic": "https://img01.wconceptimg.cn/media/catalog/product/w/i/wimg_451227436_5837171.jpg"
+                }, {
+                    "product_id": 878081,
+                    "brandName": "XTONZ",
+                    "productName": "简约纯色基础款男女同款长袖T恤_棕色",
+                    "marketPrice": "€ 226",
+                    "price": "€ 187",
+                    "discount": "1折",
+                    "pic": "https://img01.wconceptimg.cn/media/catalog/product/w/i/wimg_451227435_5837170.jpg"
+                }, {
+                    "product_id": 878077,
+                    "brandName": "XTONZ",
+                    "productName": "简约纯色基础款男女同款长袖T恤_粉色",
+                    "marketPrice": "€ 226",
+                    "price": "€ 187",
+                    "discount": "1折",
+                    "pic": "https://img01.wconceptimg.cn/media/catalog/product/w/i/wimg_451227434_5837301.jpg"
+                }, {
+                    "product_id": 878073,
+                    "brandName": "XTONZ",
+                    "productName": "简约纯色基础款男女同款长袖T恤_米色",
+                    "marketPrice": "€ 226",
+                    "price": "€ 187",
+                    "discount": "1折",
+                    "pic": "https://img01.wconceptimg.cn/media/catalog/product/w/i/wimg_451227437_5837172.jpg"
+                }, {
+                    "product_id": 878069,
+                    "brandName": "XTONZ",
+                    "productName": "简约纯色基础款男女同款长袖T恤_白色",
+                    "marketPrice": "€ 226",
+                    "price": "€ 187",
+                    "discount": "1折",
+                    "pic": "https://img01.wconceptimg.cn/media/catalog/product/w/i/wimg_451227433_5837300.jpg"
+                }, {
+                    "product_id": 878777,
+                    "brandName": "WKNDRS",
+                    "productName": "简约基础款LOGO字母印染男士长袖T恤_白色",
+                    "marketPrice": "€ 351",
+                    "price": "€ 318",
+                    "discount": "1折",
+                    "pic": "https://img01.wconceptimg.cn/media/catalog/product/1/5/15_4.jpg"
+                }, {
+                    "product_id": 878774,
+                    "brandName": "WKNDRS",
+                    "productName": "宽松彩色RABBIT印染男士长袖T恤_黑色",
+                    "marketPrice": "€ 371",
+                    "price": "€ 336",
+                    "discount": "1折",
+                    "pic": "https://img01.wconceptimg.cn/media/catalog/product/1/4/14_4_1.jpg"
+                }, {
+                    "product_id": 878771,
+                    "brandName": "WKNDRS",
+                    "productName": "宽松彩色RABBIT印染男士长袖T恤_灰色",
+                    "marketPrice": "€ 371",
+                    "price": "€ 336",
+                    "discount": "1折",
+                    "pic": "https://img01.wconceptimg.cn/media/catalog/product/1/3/13_4_1.jpg"
+                }, {
+                    "product_id": 878748,
+                    "brandName": "WKNDRS",
+                    "productName": "宽松印染半拉链男士POLO长袖T恤_橙色",
+                    "marketPrice": "€ 543",
+                    "price": "€ 490",
+                    "discount": "1折",
+                    "pic": "https://img01.wconceptimg.cn/media/catalog/product/1/2/12_5_1.jpg"
+                }, {
+                    "product_id": 878745,
+                    "brandName": "WKNDRS",
+                    "productName": "宽松印染半拉链男士POLO长袖T恤_黑色",
+                    "marketPrice": "€ 543",
+                    "price": "€ 490",
+                    "discount": "1折",
+                    "pic": "https://img01.wconceptimg.cn/media/catalog/product/1/1/11_12.jpg"
+                }, {
+                    "product_id": 810441,
+                    "brandName": "Guuka",
+                    "productName": "古由卡/Guuka 雾霾蓝拼接几何图印花T恤",
+                    "marketPrice": "€ 188",
+                    "price": "€ 138",
+                    "discount": "1折",
+                    "pic": "https://img01.wconceptimg.cn/media/catalog/product/S/i/Simg_15590989064135_l.jpg"
+                }, {
+                    "product_id": 810435,
+                    "brandName": "Guuka",
+                    "productName": "古由卡/Guuka &Sank藏克漫画联名海啸污染迷彩印花T恤",
+                    "marketPrice": "€ 268",
+                    "price": "€ 228",
+                    "discount": "1折",
+                    "pic": "https://img01.wconceptimg.cn/media/catalog/product/S/i/Simg_15590985945246_l.jpg"
+                }, {
+                    "product_id": 783323,
+                    "brandName": "Guuka",
+                    "productName": "不规则oversize蓝色撞色拼接T恤",
+                    "marketPrice": "€ 218",
+                    "price": "€ 188",
+                    "discount": "1折",
+                    "pic": "https://img01.wconceptimg.cn/media/catalog/product/S/i/Simg_15562483071837_l_1.jpg"
+                }, {
+                    "product_id": 777130,
+                    "brandName": "Guuka",
+                    "productName": "古由卡/Guuka  辑明线个性剪裁刺绣短袖T恤",
+                    "marketPrice": "€ 288",
+                    "price": "€ 228",
+                    "discount": "1折",
+                    "pic": "https://img01.wconceptimg.cn/media/catalog/product/S/i/Simg_15559006918959_l_1.jpg"
+                }, {
+                    "product_id": 776958,
+                    "brandName": "Guuka",
+                    "productName": "古由卡/Guuka 两件撞色拼接立体口袋T恤",
+                    "marketPrice": "€ 298",
+                    "price": "€ 228",
+                    "discount": "1折",
+                    "pic": "https://img01.wconceptimg.cn/media/catalog/product/S/i/Simg_15558989643832_l_1.jpg"
+                }, {
+                    "product_id": 776952,
+                    "brandName": "Guuka",
+                    "productName": "古由卡/Guuka 白色拼接插色卡通印花T恤",
+                    "marketPrice": "€ 228",
+                    "price": "€ 168",
+                    "discount": "1折",
+                    "pic": "https://img01.wconceptimg.cn/media/catalog/product/S/i/Simg_15557528809644_l_1.jpg"
+                }, {
+                    "product_id": 873228,
+                    "brandName": "XERO",
+                    "productName": "简约模糊打印男士长袖T恤[Earth]_白色",
+                    "marketPrice": "€ 283",
+                    "price": "€ 283",
+                    "discount": "1折",
+                    "pic": "https://img01.wconceptimg.cn/media/catalog/product/w/i/wimg_451223865_5817569.jpg"
+                }, {
+                    "product_id": 873224,
+                    "brandName": "XERO",
+                    "productName": "简约模糊打印男士长袖T恤[Gradation]_白色",
+                    "marketPrice": "€ 283",
+                    "price": "€ 283",
+                    "discount": "1折",
+                    "pic": "https://img01.wconceptimg.cn/media/catalog/product/w/i/wimg_451223866_5817570.jpg"
+                }, {
+                    "product_id": 873220,
+                    "brandName": "XERO",
+                    "productName": "简约模糊打印男士长袖T恤[Express]_白色",
+                    "marketPrice": "€ 283",
+                    "price": "€ 283",
+                    "discount": "1折",
+                    "pic": "https://img01.wconceptimg.cn/media/catalog/product/w/i/wimg_451223864_5817568.jpg"
+                }, {
+                    "product_id": 871454,
+                    "brandName": "HAVE A GOOD TIME",
+                    "productName": "时尚袖边LOGO字母男女同款长袖T恤_紫红色",
+                    "marketPrice": "€ 442",
+                    "price": "€ 442",
+                    "discount": "1折",
+                    "pic": "https://img01.wconceptimg.cn/media/catalog/product/w/i/wimg_451223605_5815900.jpg"
+                }
+            ]
+        }
+    }
+}

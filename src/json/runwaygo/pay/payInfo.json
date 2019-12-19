@@ -1,0 +1,60 @@
+{
+  "code": "0",
+  "msg": "success",
+  "content": {
+    "payId": "1",
+		"_payId": "1 线上全额支付  2 线上分笔支付  3 线下全额  4 线下分笔 ",
+		"payTime": "1230",
+    "countdown": "1000",
+    "_countdown": "剩余支付时间",
+    "payAmount": "49038",
+    "multipleSupport": "1",
+    "_multipleSupport": "1 未支付的金额支持分笔  0 未支付的金额不支持分笔 ",
+		"tip": "每笔支付金额最低¥5000。剩余不足¥5000时，需一次支付完毕",
+		"lowest": "1",
+		"currency": "¥",
+		"payTypeList": [
+			{
+				"type": "alipay",
+				"id": "25"
+			},
+			{
+				"type": "wechat",
+				"id": "24"
+			}
+		],
+		"recordList": [],
+		"_recordList": [
+			{
+				"payTime": "2019-12-03 18:06:00",
+				"payTypeName": "微信",
+				"payAmount": "14000元"
+			},
+			{
+				"payTime": "2019-12-04 19:59:00",
+				"payTypeName": "支付宝",
+				"payAmount": "¥24400"
+      },
+      {
+				"payTime": "2019-12-03 18:06:00",
+				"payTypeName": "微信",
+				"payAmount": "¥14000"
+			},
+			{
+				"payTime": "2019-12-04 19:59:00",
+				"payTypeName": "支付宝",
+				"payAmount": "¥24400"
+      },
+      {
+				"payTime": "2019-12-03 18:06:00",
+				"payTypeName": "微信",
+				"payAmount": "¥14000"
+			},
+			{
+				"payTime": "2019-12-04 19:59:00",
+				"payTypeName": "支付宝",
+				"payAmount": "¥24400"
+			}
+		]
+  }
+}

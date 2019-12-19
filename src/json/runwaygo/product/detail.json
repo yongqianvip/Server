@@ -1,0 +1,128 @@
+{
+	"code": "0",
+	"content": {
+		"actDetail": {
+			"actDetails": [{
+				"name": "今日秒杀精选！去抢购>",
+				"refAction": "goToLatest",
+				"refContent": "refContent",
+				"refTitle": "refTitle"
+			}, {
+				"name": "拼团好货火爆进行中，去拼团采购>",
+				"refAction": "goToLatest",
+				"refContent": "refContent",
+				"refTitle": "refTitle"
+			}, {
+				"name": "每日上新500+款，去采购>",
+				"refAction": "goToLatest",
+				"refContent": "refContent",
+				"refTitle": "refTitle"
+			}, {
+				"name": "精选全球货源！去采购>",
+				"refAction": "goToLatest",
+				"refContent": "refContent",
+				"refTitle": "refTitle"
+			}],
+			"name": "活动详情"
+		},
+		"actInfo": {
+			"actDetails": [
+        {
+          "name": "尖货秒杀",
+          "refAction": "refAction",
+          "refContent": "refContent",
+          "refTitle": "refTitle"
+        }, {
+          "name": "拼团活动",
+          "refAction": "refAction",
+          "refContent": "refContent",
+          "refTitle": "refTitle"
+        }, {
+          "name": "最新上架",
+          "refAction": "refAction",
+          "refContent": "refContent",
+          "refTitle": "refTitle"
+        }, {
+          "name": "左图右文",
+          "refAction": "refAction",
+          "refContent": "refContent",
+          "refTitle": "refTitle"
+        }
+      ],
+			"name": "活动信息"
+		},
+		"advertisement": "因双十一下单人数过多，物流将延迟1-3天， 请您耐心等待，不要着急，不要催，催了也没用",
+		"brandEngliashName": "DIRO",
+		"discountRate": "5.0折",
+		"exchangeRate": "6.0",
+		"goodsSourceVo": {
+			"goodsSourceName": "欧现",
+			"goodsSourcePic": "http://pic/runwaygo..."
+		},
+		"images": [
+			"https://img01.wconceptimg.cn/media/catalog/product/S/i/Simg_15723332992731_l.jpg", 
+			"https://img01.wconceptimg.cn/media/catalog/product/S/i/Simg_15723318093212_l.jpg", 
+			"https://img01.wconceptimg.cn/media/catalog/product/w/i/wimg_451249366R.jpg"],
+		"isCNY": 0,
+		"logistic": [{
+			"name": "订单确认时间",
+			"value": "48小时之间确认"
+		}, {
+			"name": "订单发货时间",
+			"value": "确认后3天之内发活，发货6-7天之内到货,发货6-7天之内到货"
+		}],
+		"picAndTextDetail": "Every child can read Brand New Readers Fish and Frog swim, make faces, and play silly games in four simplestories enhanced by enticingly vibrant illustrations.",
+		"productInfo": [{
+			"name": "编号",
+			"value": "bihao00021"
+		}, {
+			"name": "品牌",
+			"value": "DIRO"
+		}, {
+			"name": "货号",
+			"value": "SKUOOOO0"
+		}, {
+			"name": "类目",
+			"value": "女士上衣"
+		}, {
+			"name": "季节",
+			"value": "秋冬"
+		}, {
+			"name": "材质",
+			"value": "羊毛"
+		}],
+		"productName": "春秋款 包包 红色 全球限量",
+		"retailPrice": "$2000",
+		"rmbConvertedInto": "￥6000",
+		"salePrice": "$1000",
+		"salesVolume": 8,
+		"skuDetail": {
+			"saleNumberName": "库存",
+			"salePriceName": "价格",
+			"selectedName": "已选",
+			"skus": [{
+				"saleNumber": 100,
+				"salePrice": "$1000",
+				"skuId": 1,
+				"specs": "S",
+				"addCartMult": 5
+			}, {
+				"saleNumber": 46,
+				"salePrice": "$1000",
+				"skuId": 2,
+				"specs": "XXL",
+				"addCartMult": 4
+			}, {
+				"saleNumber": 32,
+				"salePrice": "$1200",
+				"skuId": 3,
+				"specs": "XXXL",
+				"addCartMult": 3
+			}],
+			"specsName": "规格"
+		},
+		"supplierNo": "S00002",
+		"tags": ["明星单品", "top1","明星单品"]
+	},
+	"msg": "success"
+}

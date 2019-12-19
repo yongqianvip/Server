@@ -1,0 +1,173 @@
+{
+    "code": 0,
+    "content": {
+        "hotProductDtos": {            
+            "pic": "https://img.alicdn.com/imgextra/i4/6000000002624/TB2QYtubk7OyuJjSsplXXXqdpXa_!!0-tbCommonAudio.jpg_320x320q90.jpg",
+            "title": "热门货源",
+            "tagIcon": "https://img.alicdn.com/tfs/TB1fc6SdKuSBuNjy1XcXXcYjFXa-36-36.png",
+            "list": [
+                {
+                    "product_id": 887629,
+                    "brandName": "LOEIL",
+                    "productName": "宽松长袖男士针织T恤_卡其色",
+                    "markeyPrice": "€ 283",
+                    "price": "€ 283",
+                    "discount": "1折",
+                    "pic": "https://img01.wconceptimg.cn/media/catalog/product/w/i/wimg_451235293R.jpg"
+                }, {
+                    "product_id": 881270,
+                    "brandName": "ANOUTFIT",
+                    "productName": "宽松柔肤弹力系扣袖口男女同款圆领长袖T恤_黑色",
+                    "markeyPrice": "€ 351",
+                    "price": "€ 285",
+                    "discount": "1折",
+                    "pic": "https://img01.wconceptimg.cn/media/catalog/product/w/i/wimg_451230612R.jpg"
+                }, {
+                    "product_id": 877967,
+                    "brandName": "INSTANTSUPPLYCO.",
+                    "productName": "宽松剪切拼色走线男女同款长袖T恤_白色",
+                    "markeyPrice": "€ 283",
+                    "price": "€ 231",
+                    "discount": "1折",
+                    "pic": "https://img01.wconceptimg.cn/media/catalog/product/w/i/wimg_451225519_5831057.jpg"
+                }, {
+                    "product_id": 877956,
+                    "brandName": "INSTANTSUPPLYCO.",
+                    "productName": "宽松加大版男女同款长袖T恤_白色/浅绿色",
+                    "markeyPrice": "€ 199",
+                    "price": "€ 165",
+                    "discount": "1折",
+                    "pic": "https://img01.wconceptimg.cn/media/catalog/product/w/i/wimg_451225522_5831062.jpg"
+                }, {
+                    "product_id": 877953,
+                    "brandName": "INSTANTSUPPLYCO.",
+                    "productName": "宽松加大版男女同款长袖T恤_淡黄色",
+                    "markeyPrice": "€ 199",
+                    "price": "€ 165",
+                    "discount": "1折",
+                    "pic": "https://img01.wconceptimg.cn/media/catalog/product/w/i/wimg_451225524_5831065.jpg"
+                }, {
+                    "product_id": 877795,
+                    "brandName": "SEWING BOUNDARIES",
+                    "productName": "宽松背面SWBD X BIGISSUE LOGO印染男女同款短袖T恤_红色",
+                    "markeyPrice": "€ 283",
+                    "price": "€ 283",
+                    "discount": "1折",
+                    "pic": "https://img01.wconceptimg.cn/media/catalog/product/w/i/wimg_451226060_5834404.jpg"
+                }, {
+                    "product_id": 877792,
+                    "brandName": "SEWING BOUNDARIES",
+                    "productName": "宽松背面SWBD X BIGISSUE LOGO印染男女同款短袖T恤_白色",
+                    "markeyPrice": "€ 283",
+                    "price": "€ 283",
+                    "discount": "1折",
+                    "pic": "https://img01.wconceptimg.cn/media/catalog/product/w/i/wimg_451226061_5834405.jpg"
+                }, {
+                    "product_id": 877789,
+                    "brandName": "SEWING BOUNDARIES",
+                    "productName": "宽松背面SWBD X BIGISSUE LOGO印染男女同款短袖T恤_黑色",
+                    "markeyPrice": "€ 283",
+                    "price": "€ 283",
+                    "discount": "1折",
+                    "pic": "https://img01.wconceptimg.cn/media/catalog/product/w/i/wimg_451226059_5834403.jpg"
+                }, {
+                    "product_id": 877784,
+                    "brandName": "SEWING BOUNDARIES",
+                    "productName": "宽松背面WBD X BIGISSUE地图印染男女同款短袖T恤_白色",
+                    "markeyPrice": "€ 283",
+                    "price": "€ 283",
+                    "discount": "1折",
+                    "pic": "https://img01.wconceptimg.cn/media/catalog/product/w/i/wimg_451226064_5834408.jpg"
+                }, {
+                    "product_id": 877781,
+                    "brandName": "SEWING BOUNDARIES",
+                    "productName": "宽松背面WBD X BIGISSUE地图印染男女同款短袖T恤_黑色",
+                    "markeyPrice": "€ 283",
+                    "price": "€ 283",
+                    "discount": "1折",
+                    "pic": "https://img01.wconceptimg.cn/media/catalog/product/w/i/wimg_451226062_5834406.jpg"
+                }, {
+                    "product_id": 876623,
+                    "brandName": "BRICK",
+                    "productName": "宽松前短后长胸部口袋男女同款长袖T恤_米色",
+                    "markeyPrice": "€ 246",
+                    "price": "€ 224",
+                    "discount": "1折",
+                    "pic": "https://img01.wconceptimg.cn/media/catalog/product/w/i/wimg_451229012_5842821.jpg"
+                }, {
+                    "product_id": 876617,
+                    "brandName": "BRICK",
+                    "productName": "宽松条纹前短后长男女同款长袖T恤_军绿色",
+                    "markeyPrice": "€ 304",
+                    "price": "€ 275",
+                    "discount": "1折",
+                    "pic": "https://img01.wconceptimg.cn/media/catalog/product/w/i/wimg_451229013_5842822.jpg"
+                }, {
+                    "product_id": 876611,
+                    "brandName": "BRICK",
+                    "productName": "宽松条纹前短后长男女同款长袖T恤_黑色",
+                    "markeyPrice": "€ 304",
+                    "price": "€ 275",
+                    "discount": "1折",
+                    "pic": "https://img01.wconceptimg.cn/media/catalog/product/w/i/wimg_451229014_5842823.jpg"
+                }, {
+                    "product_id": 876608,
+                    "brandName": "BRICK",
+                    "productName": "宽松前短后长胸部口袋男女同款长袖T恤_深藏青色",
+                    "markeyPrice": "€ 246",
+                    "price": "€ 224",
+                    "discount": "1折",
+                    "pic": "https://img01.wconceptimg.cn/media/catalog/product/w/i/wimg_451229010_5842818.jpg"
+                }, {
+                    "product_id": 876524,
+                    "brandName": "DWSE",
+                    "productName": "宽松背面FLAME印染男士长袖T恤_白色",
+                    "markeyPrice": "€ 337",
+                    "price": "€ 306",
+                    "discount": "1折",
+                    "pic": "https://img01.wconceptimg.cn/media/catalog/product/w/i/wimg_451229751_5844626.jpg"
+                }, {
+                    "product_id": 876522,
+                    "brandName": "DWSE",
+                    "productName": "宽松背面FLAME印染男士长袖T恤_黑色",
+                    "markeyPrice": "€ 337",
+                    "price": "€ 306",
+                    "discount": "1折",
+                    "pic": "https://img01.wconceptimg.cn/media/catalog/product/w/i/wimg_451229750_5844625.jpg"
+                }, {
+                    "product_id": 886123,
+                    "brandName": "SEARCH410",
+                    "productName": "宽松落肩迷你LOGO字母点缀男女同款圆领长袖T恤_黑色",
+                    "markeyPrice": "€ 273",
+                    "price": "€ 224",
+                    "discount": "1折",
+                    "pic": "https://img01.wconceptimg.cn/media/catalog/product/w/i/wimg_451233240R.jpg"
+                }, {
+                    "product_id": 886120,
+                    "brandName": "SEARCH410",
+                    "productName": "宽松落肩迷你LOGO字母点缀男女同款圆领长袖T恤_白色",
+                    "markeyPrice": "€ 273",
+                    "price": "€ 224",
+                    "discount": "1折",
+                    "pic": "https://img01.wconceptimg.cn/media/catalog/product/w/i/wimg_451233241R.jpg"
+                }, {
+                    "product_id": 886109,
+                    "brandName": "SEARCH410",
+                    "productName": "宽松落肩圆环search字母印染男女同款圆领长袖T恤_粉色",
+                    "markeyPrice": "€ 273",
+                    "price": "€ 224",
+                    "discount": "1折",
+                    "pic": "https://img01.wconceptimg.cn/media/catalog/product/w/i/wimg_451233238R.jpg"
+                }, {
+                    "product_id": 886106,
+                    "brandName": "SEARCH410",
+                    "productName": "宽松落肩圆环search字母印染男女同款圆领长袖T恤_浅黄色",
+                    "markeyPrice": "€ 273",
+                    "price": "€ 224",
+                    "discount": "1折",
+                    "pic": "https://img01.wconceptimg.cn/media/catalog/product/w/i/wimg_451233239R.jpg"
+                }
+            ]
+        }
+    }
+}
