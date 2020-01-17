@@ -3,7 +3,7 @@
 	"msg": "",
 	"content": {
     "time": "12000",
-    "amountInfo": "次订单应付金额 ¥50000",
+    "amountInfo": "此单应付金额 ¥50000",
     "uploadTip": "上传凭证后，系统将于2个工作日内审核订单，请及时关注订单状态",
 		"payInfo": [
 			{

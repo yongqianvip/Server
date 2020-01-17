@@ -1,0 +1,74 @@
+{
+	"code": "0",
+	"content": {
+		"addressBean": {
+			"areaCode": "86",
+			"city": "北京市辖",
+			"contact": "测试",
+			"country": "中国",
+			"detail": "ceshi ",
+			"district": "昌平区",
+			"mobile": "17601615240",
+			"province": "北京"
+		},
+		"logisticsBean": {
+			"carrierName": "顺丰SF",
+			"latestDate": "2-30",
+			"latestTime": "25:61",
+			"record": "派件送达【北京市】朝阳区幼儿园",
+			"trackingNo": "SF12345654321"
+		},
+		"myOrderDisplayListDto": {
+			"logistics": {},
+			"orderNo": "6000000183182732",
+			"orderTime": "1578500466000",
+			"state": "未上传凭证"
+		},
+		"myPayInFo": {
+			"payAmount": "$3670.0",
+			"payType": "已支付定金",
+			"_payType": "已支付定金 / 已支付记录 / 应付定金",
+			"payValue": "¥999",
+			"_payValue": "线上分笔时为累计  线上全额时为空   线下定金时为空",
+			"recordList": [
+				{
+					"payTime": "2019-12-12 16:08",
+					"payTypeName": "微信",
+					"payAmount": "¥44400"
+				},
+				{
+					"payTime": "2019-12-12 16:19",
+					"payTypeName": "支付宝",
+					"payAmount": "¥400"
+				}
+			]
+		},
+		"orderInfos": [{
+			"name": "商品总金额",
+			"value": "$488.0"
+		}, {
+			"name": "优惠码",
+			"value": "$488.0"
+		}, {
+			"name": "订单总金额",
+			"value": "$488.0"
+		}],
+		"payAmount": "488",
+		"productDtos": [{
+			"goodsSource": "欧洲",
+			"list": [{
+				"brandName": "Canada Goose",
+				"count": "4",
+				"pic": "http://pic.runwaygo.com/image/product/201912301551597072792.jpg",
+				"price": "$122",
+				"productName": "CANADA GOOSE 女士帽子",
+				"size": "OS",
+				"skuNo": "100021801",
+				"totalPrice": "$488"
+			}]
+		}],
+		"state": "1",
+		"time": "1218350"
+	},
+	"msg": "success"
+}

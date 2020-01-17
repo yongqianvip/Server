@@ -1,0 +1,73 @@
+{
+	"code": "0",
+	"content": {
+		"header": {
+			"end_from_now": "8204139914",
+			"pic": "http://pic.runwaygo.com/image/user/201912141741260701876.png",
+			"start_from_now": "",
+			"type": "0"
+		},
+		"list": [{
+			"brandName": "Michael Michael Kors",
+			"discount": "5.5",
+			"labels": ["早春采购"],
+			"marketPrice": "€350",
+			"pic": "http://pic.runwaygo.com/image/product/201912301546505828641.jpg",
+			"price": "€193",
+			"productName": "Michael Michael Kors Coats",
+			"refAction": "",
+			"refContent": "",
+			"refSubTitle": "",
+			"refTitle": "",
+			"size": ["M"],
+			"spuNo": "1000074",
+			"supplierNo": "S041"
+		}, {
+			"brandName": "Coach",
+			"discount": "5.5",
+			"labels": ["热门精选"],
+			"marketPrice": "$550",
+			"pic": "http://pic.runwaygo.com/image/product/201912301549582366822.jpg",
+			"price": "$303",
+			"productName": "TABBY 顶部手柄手袋",
+			"refAction": "",
+			"refContent": "",
+			"refSubTitle": "",
+			"refTitle": "",
+			"size": ["TU"],
+			"spuNo": "1000109",
+			"supplierNo": "S042"
+		}, {
+			"brandName": "Coach",
+			"discount": "5.5",
+			"labels": ["热门精选"],
+			"marketPrice": "$495",
+			"pic": "http://pic.runwaygo.com/image/product/201912301550023946355.jpg",
+			"price": "$272",
+			"productName": "DREAMER手袋",
+			"refAction": "",
+			"refContent": "",
+			"refSubTitle": "",
+			"refTitle": "",
+			"size": ["TU"],
+			"spuNo": "1000120",
+			"supplierNo": "S042"
+		}, {
+			"brandName": "Tumi",
+			"discount": "6.1",
+			"labels": [],
+			"marketPrice": "$325",
+			"pic": "http://pic.runwaygo.com/image/product/201912301550367759298.jpg",
+			"price": "$197",
+			"productName": "Mauren托特包",
+			"refAction": "",
+			"refContent": "",
+			"refSubTitle": "",
+			"refTitle": "",
+			"size": ["TU"],
+			"spuNo": "1000154",
+			"supplierNo": "S042"
+		}]
+	},
+	"msg": "success"
+}

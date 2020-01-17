@@ -1,0 +1,8 @@
+Device ID	Device Name	Device Platform
+406575247fc285f572804ec118d2bfda16b27925	majunying	ios
+3b9269b248c8bf100111a0218480786d4862fbcb	gaoyang	ios
+1e516f74dd0ece98586b64ee3b71fbf13773676e	Jenny	ios
+c65b7eabfa15435c5c7df95239fe307f71487065	Jenna	ios
+6407bd1c7a95f6e9e417d2ecc856a31d8f45615b	Grace	ios
+00008030-00126DC93A30802E	Lancy	ios
+00008020-000E5D9A1452002E	zhihui	ios
