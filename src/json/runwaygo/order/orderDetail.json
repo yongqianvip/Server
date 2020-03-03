@@ -1,0 +1,163 @@
+{
+	"code": 0,
+	"content": {
+		"state": 8,
+		"payAmount": "¥44400",
+		"_payAmount": "待付款金额",
+		"time": 1000,
+		"_time": "剩余支付时间 秒",
+		"warehouse": "发货仓",
+		"logistics": {
+			"carrierName": "顺丰快递",
+			"trackingNo": "SF1234567893999",
+			"record": "【香港】尖沙咀集散中心发出，即将前往下一站：【首都机场航空分拨中心一分部】",
+			"latestDate": "12-31",
+			"latestTime": "13:45"
+		},
+		"address": {
+			"provinceName": "河北省",
+			"cityName": "保定市",
+			"districtName": "白洋淀区",
+			"detail": "靠山屯西北角犄角旮旯的地方",
+			"userName": "你猜",
+			"areaCode": "86",
+			"userContact": "15888889999"
+		},
+		"list": [
+			{
+				"deliverAddress": "欧洲",
+				"productList": [
+					{
+						"pic": "http://pic.runwaygo.com/image/product/201912201223150937173.jpg",
+						"name": "Versace 黑色胸口金色美杜莎短袖T偏大A",
+						"skuDes": "大码",
+						"price": "￥4545",
+						"count": "10",
+						"totalAmount": "￥45450"
+          },
+          {
+						"pic": "http://pic.runwaygo.com/image/product/201912201223150937173.jpg",
+						"name": "暗示法千万人Versace 黑色胸口金色美杜莎短袖T偏大A",
+						"skuDes": "大大码",
+						"price": "￥4546",
+						"count": "10",
+						"totalAmount": "￥45460"
+          },
+          {
+						"pic": "http://pic.runwaygo.com/image/product/201912201223150937173.jpg",
+						"name": "萨达自行车八王坟Versace 黑色胸口金色美杜莎短袖T偏大A",
+						"skuDes": "中码",
+						"price": "￥4645",
+						"count": "10",
+						"totalAmount": "￥46450"
+          },
+          {
+						"pic": "http://pic.runwaygo.com/image/product/201912201223150937173.jpg",
+						"name": "岗位上如果未确认Versace 黑色胸口金色美杜莎短袖T偏大A",
+						"skuDes": "无码",
+						"price": "￥4565",
+						"count": "10",
+						"totalAmount": "￥45650"
+          },
+          {
+						"pic": "http://pic.runwaygo.com/image/product/201912201223150937173.jpg",
+						"name": "去玩儿二问题沃尔特",
+						"skuDes": "小码",
+						"price": "￥66645",
+						"count": "10",
+						"totalAmount": "￥666450"
+          },
+          {
+						"pic": "http://pic.runwaygo.com/image/product/201912201223150937173.jpg",
+						"name": "哦脾气委托人看了我让他Versace 黑色胸口金色美杜莎短袖T偏大A",
+						"skuDes": "大码",
+						"price": "￥4545",
+						"count": "10",
+						"totalAmount": "￥45450"
+					}
+				]
+      },
+      {
+				"deliverAddress": "香港",
+				"productList": [
+					{
+						"pic": "http://pic.runwaygo.com/image/product/201912201223150937173.jpg",
+						"name": "千万人翁无无无无Versace 黑色胸口金色美杜莎短袖T偏大A",
+						"skuDes": "均码",
+						"price": "￥8888",
+						"count": "5",
+						"totalAmount": "￥44440"
+					}
+				]
+			}
+		],
+		"orderInfo": {
+			"orderNo": "123545646546546578",
+			"subOrderNo": "sub546876576543223",
+      "orderTime": "2019-12-31 16:00:02",
+      "checkStatus": "未上传凭证",
+			"_checkStatus": "汇款凭证审核状态 未上传凭证  审核中"
+		},
+		"amountInfo": [
+			{
+				"name": "商品总金额",
+				"value": "$4545"
+			},
+			{
+				"name": "运费",
+				"value": "+$20"
+			},
+			{
+				"name": "优惠码",
+				"value": "-$45"
+			},
+			{
+				"name": "订单总金额",
+				"value": "$4525"
+			}
+		],
+		"payInfo": {
+			"payAmount": "¥44400",
+			"_payAmount": "折合的人民币金额 $777777",
+			"payType": "已支付定金",
+			"_payType": "已支付定金 / 已支付记录 / 应付定金",
+			"payValue": "¥999",
+			"_payValue": "线上分笔时为累计  线上全额时为空   线下定金时为空",
+			"recordList": [
+				{
+					"payTime": "2019-12-12 16:08",
+					"payTypeName": "微信",
+					"payAmount": "¥44400"
+				},
+				{
+					"payTime": "2019-12-12 16:19",
+					"payTypeName": "支付宝",
+					"payAmount": "¥400"
+				}
+			]
+		},
+		
+		"_____state": {
+			"0": "待支付  线下 未付定金",
+			"_0": "【等待付款】需付定金￥88， 剩余 45分钟  【去支付】——————————【取消订单】【去支付】",
+			"1": "待支付  线上 从未支付过",
+			"_1": "【等待付款】需付款￥88， 剩余 45分钟  【去支付】——————————【取消订单】【去支付】",
+			"2": "待支付  线上 付过一部分",
+			"_2": "【等待付款】还需付款￥88， 剩余 45分钟  【继续支付】——————————【取消订单】【继续支付】",
+			"3": "待确认  不再支持上传凭证",
+			"_3": "icon 【订单确认中。。。】——————————【无】",
+			"4": "待确认  需要上传凭证",
+			"_4": "icon 【订单确认中。。。】——————————【上传凭证】",
+			"5": "待发货  不再支持上传凭证",
+			"_5": "icon 【订单出库中...】【由[欧洲仓]发货】——————————【无】",
+			"6": "待发货  需要上传凭证",
+			"_6": "icon 【订单出库中...】【由[欧洲仓]发货】——————————【上传凭证】",
+			"7": "待收货  需要上传凭证",
+			"_7": "icon 【请上传凭证...】物流信息 —————————— 【上传凭证】【查看物流】",
+			"8": "待收货  可以确认收货",
+			"_8": "icon 【订单运输中...】物流信息——————————【确认收货】【查看物流】",
+			"9": "已取消",
+			"_9": "icon 【已取消】—————————— 【无】"
+		}
+	}
+}

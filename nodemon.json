@@ -16,5 +16,9 @@
     "env": {
         "NODE_ENV": "development"
     },
-    "ext": "js json"
+    "ext": "js json",
+    "name": "RUNWAYGO",
+    "displayName": "RUNWAYGO",
+    "IOS_PATCH_VERSION": "",
+    "ANDROID_PATCH_VERSION": ""
 }

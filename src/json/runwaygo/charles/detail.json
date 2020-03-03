@@ -1,0 +1,89 @@
+{
+	"code": "0",
+	"content": {
+		"actDetail": {
+			"actDetails": [{
+				"name": "精选全球限量尖货，去采购>",
+				"refAction": "goToNormal",
+				"refContent": 30,
+				"refTitle": "全球货源折扣速递"
+			}],
+			"name": "活动详情"
+		},
+		"actInfo": {
+			"actDetails": [{
+				"name": "畅销TOP榜",
+				"refAction": "goToNormal",
+				"refContent": 30,
+				"refTitle": "全球货源折扣速递"
+			}],
+			"name": "活动信息"
+		},
+    "addCartMult": 1,
+    "batchBuyRule": {
+      "ruleDesc": "总量大于100件，热门商品不超过总数的50%",
+      "refAction": "goToBatchBuy",
+      "refContent": "S010",
+      "refTitle": "批发采购"
+    },
+		"advertisement": "",
+		"brandEnglishName": "SWAROVSKI",
+		"discountRate": "5.2折",
+		"exchangeRate": "7.85",
+		"goodsSourceVo": {
+			"goodsSourceName": "欧洲",
+			"goodsSourcePic": "http://pic.runwaygo.com/image/user/201912202044291491423.png"
+		},
+		"images": ["http://pic.runwaygo.com/image/product/202001201847138173667.jpg", "http://pic.runwaygo.com/image/product/202001201847139139263.jpg", "http://pic.runwaygo.com/image/product/202001201847140055345.jpg", "http://pic.runwaygo.com/image/product/202001201847140891645.jpg", "http://pic.runwaygo.com/image/product/202001201847141785528.jpg", "http://pic.runwaygo.com/image/product/202001201847142701121.jpg"],
+		"isCNY": 0,
+		"isStock": 1,
+		"logistic": [{
+			"name": "订单确认时间",
+			"value": "72小时之内确认"
+		}, {
+			"name": "订单发货时间",
+			"value": "确认后20个工作日发出，7-15个工作日送达"
+		}],
+		"minQuantity": 10,
+		"minSpecs": 1,
+		"productInfo": [{
+			"name": "编号",
+			"value": "1003158"
+		}, {
+			"name": "品牌",
+			"value": "SWAROVSKI"
+		}, {
+			"name": "货号",
+			"value": "5493391"
+		}, {
+			"name": "类目",
+			"value": "女士耳饰"
+		}, {
+			"name": "季节",
+			"value": "SPRING/SUMMER 2020"
+		}, {
+			"name": "材质",
+			"value": "镀玫瑰金色调"
+		}],
+		"productName": "女士North 穿孔耳环 白色 镀玫瑰金色调",
+		"productType": 2,
+		"retailPrice": "€149",
+		"rmbConvertedInto": "￥612",
+		"salePrice": "€78",
+		"skuDetail": {
+			"saleNumberName": "库存",
+			"salePriceName": "价格",
+			"selectedName": "已选",
+			"skus": [{
+				"saleNumber": 681,
+				"salePrice": "€78",
+				"skuNo": "100315801",
+				"specs": "TU"
+			}],
+			"specsName": "规格"
+		},
+		"spuNo": "1003158",
+		"supplierNo": "S010"
+	},
+	"msg": "success"
+}

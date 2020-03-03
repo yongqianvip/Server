@@ -4,6 +4,27 @@
 	"content": {
 		"list": [
 			{
+				"id":1,
+				"userId":100001,
+				"country":"1",
+				"countryName":"中国",
+				"province":"11",
+				"provinceName":"北京", 
+				"city":"11",
+				"cityName":"北京",
+				"district":"110101",
+				"districtName":"东城区",
+				"detail":"天河小区",
+				"isDefault":"1",
+				"createTime":"2019-12-12 12:12:36",
+				"updateTime":"2019-12-12 12:12:38",
+				"status":"1",
+				"userContact":"18238667946",
+				"userName":"兜兜",
+				"areaCode":"0731",
+				"tag":"2"
+		},
+			{
 				"id": 1,
 				"userId": 100001,
 				"country": "1",

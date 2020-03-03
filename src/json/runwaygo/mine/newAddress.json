@@ -1,0 +1,46 @@
+{
+	"code": "",
+	"msg": "",
+	"content": {
+		"list": [
+			{
+				"id":1,
+        "userId":100001,
+        "address":[
+          {"id": "1", "value": "中国"},
+          {"id": "11", "value": "北京"},
+          {"id": "111", "value": "北京"},
+          {"id": "1116", "value": "东城区"}
+        ],
+				"detail":"天河小区",
+				"isDefault":"1",
+				"createTime":"2019-12-12 12:12:36",
+				"updateTime":"2019-12-12 12:12:38",
+				"status":"1",
+				"userContact":"18238667946",
+				"userName":"兜兜",
+				"areaCode":"0731",
+				"tag":"2"
+      },
+			{
+				"id": 1,
+				"userId": 100001,
+        "country": "1",
+        "address":[
+          {"id": "1", "value": "中国"},
+          {"id": "12", "value": "河北"},
+          {"id": "121", "value": "石家庄"},
+          {"id": "1226", "value": "和平区"}
+        ],
+				"detail":"次渠南地铁站地上一层10号楼1单元2202",
+				"isDefault": "0",
+				"createTime": "2019-12-12 12:12:36",
+				"updateTime": "2019-12-12 12:12:38",
+				"status": "1",
+				"userContact": "15888889999",
+				"userName": "Mr. Yin",
+				"areaCode": "0731"
+			}
+		]
+	}
+}

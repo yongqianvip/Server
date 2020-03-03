@@ -136,11 +136,32 @@ app.get('/getPreAddress', function(req, res){
   }, 0);
 })
 
+app.get('/getOrderDetail', function(req, res){
+  setTimeout(() => {
+    res.sendFile(__dirname + "/src/json/runwaygo/order/orderDetail.json")
+  }, 500);
+})
+
+
+app.get('/getBatchProductList', function(req, res){
+  setTimeout(() => {
+    res.sendFile(__dirname + "/src/json/runwaygo/search/batchProductList.json")
+  }, 500);
+})
+
+app.get('/getUnionPayData', function(req, res){
+  setTimeout(() => {
+    res.sendFile(__dirname + "/src/json/runwaygo/charles/unionpay.json")
+  }, 500);
+})
+
+
 var server = app.listen(8080, function () {
  
   var host = server.address().address
   var port = server.address().port
- 
+  console.log(server.address());
+  
   console.log("应用实例，访问地址为 http://%s:%s", host, port)
   // console.log(clientList);
 })

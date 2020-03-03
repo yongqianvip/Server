@@ -1,0 +1,15 @@
+{
+  "code":"1",
+  "content": {
+      "currencyNo":"EUR",
+      "currencySymbol":"€",
+      "fileNo":"F20200217212512",
+      "inventoryNum":4,
+      "isHot":"1",
+      "skuNum":0,
+      "supplierSelectionSkuId":47983,
+      "supplierSelectionSpuId":25295,
+      "userId":"1DBC69005AEBC103C85661659ADA139C"
+  },
+  "msg":"success"
+}
