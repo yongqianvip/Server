@@ -10,8 +10,8 @@
 			"hotPic": "",
 			"isCNY": "0",
 			"isHOT": "0",
-			"miniNum": "1",
-			"multipleNum": "1",
+			"miniNum": "4",
+			"multipleNum": "4",
 			"productCode": "DIAMONDCAT WHITE",
 			"productName": "DIAMOND LOW TOP SILVER WHITE",
 			"retailPrice": "",
@@ -76,6 +76,11 @@
 			"spuDisable": "1",
 			"spuNo": "25330",
 			"spuPic": "http://pic.runwaygo.com/image/product/202002231710049899524.jpg",
+			"spuPicList": [
+				"http://pic.runwaygo.com/image/product/202002231710049899524.jpg",
+				"http://pic.runwaygo.com/image/product/202002231709494287852.jpg",
+				"http://pic.runwaygo.com/image/product/202002231709503904378.jpg"
+			],
 			"spuTotalPrice": "0"
 		}, {
 			"brandName": "JIMMY CHOO",
@@ -159,6 +164,9 @@
 			"spuDisable": "1",
 			"spuNo": "25331",
 			"spuPic": "http://pic.runwaygo.com/image/product/202002231710054394759.jpg",
+			"spuPicList": [
+				"http://pic.runwaygo.com/image/product/202002231710054394759.jpg"
+			],
 			"spuTotalPrice": "0"
 		}, {
 			"brandName": "JIMMY CHOO",
@@ -242,6 +250,9 @@
 			"spuDisable": "1",
 			"spuNo": "25332",
 			"spuPic": "http://pic.runwaygo.com/image/product/202002231710058315661.jpg",
+			"spuPicList": [
+				"http://pic.runwaygo.com/image/product/202002231710058315661.jpg"
+			],
 			"spuTotalPrice": "0"
 		}, {
 			"brandName": "OFF-WHITE",
@@ -289,6 +300,9 @@
 			"spuDisable": "1",
 			"spuNo": "25307",
 			"spuPic": "http://pic.runwaygo.com/image/product/202002231709503904378.jpg",
+			"spuPicList": [
+				"http://pic.runwaygo.com/image/product/202002231709503904378.jpg"
+			],
 			"spuTotalPrice": "0"
 		}, {
 			"brandName": "OFF-WHITE",
@@ -354,6 +368,9 @@
 			"spuDisable": "1",
 			"spuNo": "25302",
 			"spuPic": "http://pic.runwaygo.com/image/product/202002231709485443117.jpg",
+			"spuPicList": [
+				"http://pic.runwaygo.com/image/product/202002231709485443117.jpg"
+			],
 			"spuTotalPrice": "0"
 		}, {
 			"brandName": "OFF-WHITE",
@@ -401,6 +418,9 @@
 			"spuDisable": "1",
 			"spuNo": "25312",
 			"spuPic": "http://pic.runwaygo.com/image/product/202002231709526107411.jpg",
+			"spuPicList": [
+				"http://pic.runwaygo.com/image/product/202002231709526107411.jpg"
+			],
 			"spuTotalPrice": "0"
 		}, {
 			"brandName": "OFF-WHITE",
@@ -439,6 +459,9 @@
 			"spuDisable": "1",
 			"spuNo": "25295",
 			"spuPic": "http://pic.runwaygo.com/image/product/202002231709448326269.jpg",
+			"spuPicList": [
+				"http://pic.runwaygo.com/image/product/202002231709448326269.jpg"
+			],
 			"spuTotalPrice": "0"
 		}, {
 			"brandName": "OFF-WHITE",
@@ -504,6 +527,9 @@
 			"spuDisable": "1",
 			"spuNo": "25318",
 			"spuPic": "http://pic.runwaygo.com/image/product/202002231709560471234.jpg",
+			"spuPicList": [
+				"http://pic.runwaygo.com/image/product/202002231709560471234.jpg"
+			],
 			"spuTotalPrice": "0"
 		}, {
 			"brandName": "OFF-WHITE",
@@ -569,6 +595,9 @@
 			"spuDisable": "1",
 			"spuNo": "25304",
 			"spuPic": "http://pic.runwaygo.com/image/product/202002231709494287852.jpg",
+			"spuPicList": [
+				"http://pic.runwaygo.com/image/product/202002231709494287852.jpg"
+			],
 			"spuTotalPrice": "0"
 		}, {
 			"brandName": "OFF-WHITE",
@@ -634,6 +663,9 @@
 			"spuDisable": "1",
 			"spuNo": "25309",
 			"spuPic": "http://pic.runwaygo.com/image/product/202002231709510471269.jpg",
+			"spuPicList": [
+				"http://pic.runwaygo.com/image/product/202002231709510471269.jpg"
+			],
 			"spuTotalPrice": "0"
 		}, {
 			"brandName": "OFF-WHITE",
@@ -699,6 +731,9 @@
 			"spuDisable": "1",
 			"spuNo": "25314",
 			"spuPic": "",
+			"spuPicList": [
+				""
+			],
 			"spuTotalPrice": "0"
 		}, {
 			"brandName": "OFF-WHITE",
@@ -746,6 +781,9 @@
 			"spuDisable": "1",
 			"spuNo": "25325",
 			"spuPic": "",
+			"spuPicList": [
+				""
+			],
 			"spuTotalPrice": "0"
 		}, {
 			"brandName": "OFF-WHITE",
@@ -793,6 +831,9 @@
 			"spuDisable": "1",
 			"spuNo": "25321",
 			"spuPic": "http://pic.runwaygo.com/image/product/202002231709595706727.jpg",
+			"spuPicList": [
+				"http://pic.runwaygo.com/image/product/202002231709595706727.jpg"
+			],
 			"spuTotalPrice": "0"
 		}, {
 			"brandName": "OFF-WHITE",
@@ -840,6 +881,9 @@
 			"spuDisable": "1",
 			"spuNo": "25298",
 			"spuPic": "http://pic.runwaygo.com/image/product/202002231709464936421.jpg",
+			"spuPicList": [
+				"http://pic.runwaygo.com/image/product/202002231709464936421.jpg"
+			],
 			"spuTotalPrice": "0"
 		}, {
 			"brandName": "OFF-WHITE",
@@ -887,6 +931,9 @@
 			"spuDisable": "1",
 			"spuNo": "25317",
 			"spuPic": "http://pic.runwaygo.com/image/product/202002231709551267348.jpg",
+			"spuPicList": [
+				"http://pic.runwaygo.com/image/product/202002231709551267348.jpg"
+			],
 			"spuTotalPrice": "0"
 		}, {
 			"brandName": "OFF-WHITE",
@@ -925,6 +972,9 @@
 			"spuDisable": "1",
 			"spuNo": "25303",
 			"spuPic": "http://pic.runwaygo.com/image/product/202002231709489067364.jpg",
+			"spuPicList": [
+				"http://pic.runwaygo.com/image/product/202002231709489067364.jpg"
+			],
 			"spuTotalPrice": "0"
 		}, {
 			"brandName": "OFF-WHITE",
@@ -954,6 +1004,9 @@
 			"spuDisable": "1",
 			"spuNo": "25299",
 			"spuPic": "http://pic.runwaygo.com/image/product/202002231709469036759.jpg",
+			"spuPicList": [
+				"http://pic.runwaygo.com/image/product/202002231709469036759.jpg"
+			],
 			"spuTotalPrice": "0"
 		}, {
 			"brandName": "OFF-WHITE",
@@ -1001,6 +1054,9 @@
 			"spuDisable": "1",
 			"spuNo": "25326",
 			"spuPic": "http://pic.runwaygo.com/image/product/202002231710023187266.jpg",
+			"spuPicList": [
+				"http://pic.runwaygo.com/image/product/202002231710023187266.jpg"
+			],
 			"spuTotalPrice": "0"
 		}, {
 			"brandName": "OFF-WHITE",
@@ -1048,6 +1104,9 @@
 			"spuDisable": "1",
 			"spuNo": "25322",
 			"spuPic": "",
+			"spuPicList": [
+				""
+			],
 			"spuTotalPrice": "0"
 		}],
 		"chooseCargoRegulation": "€100起订",

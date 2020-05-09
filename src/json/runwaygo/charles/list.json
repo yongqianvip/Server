@@ -7,8 +7,8 @@
 			"start_from_now": "",
 			"type": "",
 			"videoUrl": "http://pic.runwaygo.com/video/user202001191728522641855.mp4",
-			"batch_rule": "满€100000成单，",
-			"time_rule": "确认后3个工作日内发出"
+			"saleRule": "满€100000成单，",
+			"dispatchTime": "确认后3个工作日内发出"
 		},
 		"list": [{
 			"brandName": "Michael Michael Kors",

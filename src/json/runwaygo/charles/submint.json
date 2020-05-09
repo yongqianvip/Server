@@ -1,0 +1,10 @@
+{
+  "code": "0",
+  "content": {
+		"accountNo": "60000002618017261584611021572",
+		"orderString": "{partner:\"2088431934870674\",seller_id:\"2088431934870674\",out_trade_no:\"4d57dad3-d465-48d0-b004-a444ddba5440\",subject:\"pay\",body:\"pay\",total_fee:\"0.1\",notify_url:\"https%3A%2F%2Fpayment.pa-sys.com%2Fapp%2Fpage%2Fnotify%2Falipay-sdk\",service:\"mobile.securitypay.pay\",payment_type:\"1\",_input_charset:\"UTF-8\",it_b_pay:\"30m\",payment_inst:\"ALIPAYCN\",currency:\"HKD\",product_code:\"NEW_WAP_OVERSEAS_SELLER\",forex_biz:\"FP\",secondary_merchant_id:\"2019-CHTL\",secondary_merchant_name:\"CHINA+HORIZON+TECHNOLOGY+LIMITED\",secondary_merchant_industry:\"5999\",sign:\"xh1aWhztxzgj55EsMhpbTB4EBz29mIQ1JsGxVeZOouyZnc7bsl6Zd3gGjx%2Fi%2BH06bhdX%2BgonjxCW4cL81BfVl5tzQtvUdC5ms24MVfx60vo3jNNpg1PSTNQb0FbiDaJs0nQ3Zo2P0N4w7l%2FBwsJrzzxSYrhA3mPU3vD5ogPcefs%3D\",sign_type:\"RSA\"}",
+		"resultHtml": "",
+		"returnUrl": ""
+	},
+	"msg": "success"
+}

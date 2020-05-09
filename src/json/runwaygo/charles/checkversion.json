@@ -1,0 +1,11 @@
+{
+	"code": "0",
+	"msg": "success",
+	"content": {
+		"shouldUpdate": 1,
+		"version": "V1.0.5",
+		"app_url": "https://apps.apple.com/cn/app/id1487150253",
+		"forcedState": 0,
+		"content": "测试用"
+	}
+}
