@@ -1,0 +1,113 @@
+
+一.spu设置加车倍数
+
+  1、maxValue <= minValue || maxValue <= stepLength  库存小于或等于起订量 或 库存小于等于加车倍数
+    【+】 value = maxValue  【+】不可用
+    【-】 value = 0         【-】不可用
+    【输入x】   x != 0 ? maxValue : 0
+  2、maxValue > stepLength && maxValue > minValue   库存大于加车倍数 且 库存大于起订量
+    a: stepLength >= minValue 加车倍数大于起订量  例：5存  4倍  4起
+      【+】 value = stepLength * n     value <= maxValue ? value : (maxValue - (maxValue % stepLength))   // 小于等于max  大于minValue  且是stepLength的倍数的值
+      【-】 value = stepLength * n
+        满足倍数 肯定满足起订量
+      【输入x】 
+          x == 0 ? 
+            0
+          : 
+            (x <= stepLength ? 
+                stepLength // 输入x小于stepLength 因为stepLength大于minValue 所以取stepLength
+              : 
+                (x < maxValue ? 
+                  (x % stepLength == 0 ?
+                    x 
+                  :
+                    (x - (x % stepLength) + stepLength <= maxValue ) ? (x - (x % stepLength) + stepLength) :  x - (x % stepLength))) // 输入x小于库存向上取最近的步长整数倍
+                  : 
+                    (maxValue - (maxValue % stepLength))))  //输入值大于加车倍数  向下取整
+    
+    b: stepLength < minValue 加车倍数小于起订量  例：9存  4倍  5起  则W=8
+      【+】 value = stepLength * n    
+        value肯定是stepLength的整数倍 
+          value <= minValue ? 
+              【大于minValue且是stepLength的倍数】 
+                while (minValue % stepLength != 0) {
+                  minValue++
+                }
+          : 
+          value <= maxValue ? value : (maxValue - (maxValue % stepLength))   // 小于等于max  大于minValue  且是stepLength的倍数的值
+      【-】 value = stepLength * n
+          value < minValue ? 0 : value
+      【输入x】 
+          计算出【大于minValue且是stepLength的倍数】的数
+          let W = minValue - (minValue % stepLength) + stepLength
+          x == 0 ? 
+            0
+          :
+            (W >= maxValue ? 
+              maxValue 
+            :
+              (x <= W ? 
+                  W
+                : 
+                  (x < maxValue ? 
+                      (x - (x % stepLength) + stepLength <= maxValue ) ? (x - (x % stepLength) + stepLength) : x - (x % stepLength) //输入x小于库存向上取最近的步长整数倍
+                    : 
+                      (maxValue - (maxValue % stepLength)))))  //输入值大于加车倍数  向下取整
+    
+
+【+】按钮 可用状态
+fv, minValue, maxValue, stepLength
+
+fv >= maxValue ? false : fv + stepLength > maxValue ? false : true
+
+
+
+
+
+
+
+
+一、如果sku库存数小于加车倍数或sku起订量，只能直接按全量库存数加车
+二、
+  1.spu加车倍数大于sku起订量时  stepLength > minValue 
+    按照加车倍数的整数倍去加车，
+    此时手动输入数量，
+    输入低于sku库存数时，如果低于sku起订量，计算值为大于等于sku起订量的第一个加车倍数整数倍数值；
+    输入低于sku库存数时，如果高于sku起订量，则取大于等于输入值的第一个加车倍数的整数倍数值；
+    输入高于sku库存数时，则按照库存数内满足sku起订量和加车倍数的最大库存数算；
+
+  2.spu加车倍数等于sku起订量时，
+    在满足sku库存前提下直接按照加车倍数的整数倍去加车
+    此时手动输入数量，
+    如果高于sku库存数，则取库存数内加车倍数整数倍的最大值数值；
+    如果低于sku库存数，则取大于等于输入值的第一个加车倍数整数倍的数值
+
+  3.spu设置的加车倍数数值小于sku起订量数值时，
+    按照加车倍数的整数倍进行加车且需要满足sku起订量,加车数需是加车倍数的整数倍eg：sku库存数20，spu加车倍数3，sku起订量是10，第一次点击+ 结果显示12；
+    此时手动输入数量，
+    输入高于sku库存数时，则按照库存数内满足sku起订量和加车倍数的最大库存数算；
+    输入低于sku库存数时，如果低于sku起订量，计算值为大于等于sku起订量的第一个加车倍数整数倍数值；
+    输入低于sku库存数时，如果高于sku起订量，则取大于等于输入值的第一个加车倍数的整数倍数值；
+
+二.spu设置起订数量
+
+4.spu设置起订量时 每个sku除需满足本身的起订量外，此spu下所有sku的数量和需满足spu起订量
+
+三.spu设置起订规格
+
+5.spu设置起订规格时，除满足sku级别的起订量外，选择的sku数需满足spu的起订规格数
+
+6.sku没设置起订量时 按照spu级别的要求去加车
+
+
+    maxValue % stepLength != 0
+          点【+】 按加车倍数整数倍加 
+            1）加到小于等于库存: stepLength * n <= maxValue  库存是 加车倍数的整数倍 【+】不可用
+                  value = stepLength * n
+            2）加到大于库存: stepLength * n > maxValue   库存不是 加车倍数的整数倍
+              value = maxValue - maxValue % stepLength  取离库存值最近的加车倍数的整数倍
+          点【-】 
+            value = stepLength * n
+          输入
+
+    b: stepLength < minValue 加车倍数小于起订量

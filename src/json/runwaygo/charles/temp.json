@@ -1,0 +1,250 @@
+Last login: Wed Apr 22 10:32:38 on ttys011
+ 😁  ~  npm --version
+zsh: command not found: npm
+ ✘ 😁  ~  react-native --version
+zsh: command not found: react-native
+ ✘ 😁  ~  git --version
+git version 2.21.1 (Apple Git-122.3)
+ 😁  ~  brew -
+(eval):1: _brew: function definition file not found
+(eval):1: _brew: function definition file not found
+(eval):1: brew -v
+(eval):1: _brew: function definition file not found
+(eval):1: _brew: function definition file not found
+(eval):1: brew -
+(eval):1: _brew: function definition file not found
+(eval):1: _brew: function definition file not found
+(eval):1:
+ 😁  ~  brew -
+(eval):1: _brew: function definition file not found
+(eval):1: _brew: function definition file not found
+(eval):1:   /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install.sh)"
+
+==> This script will install:
+/usr/local/bin/brew
+/usr/local/share/doc/homebrew
+/usr/local/share/man/man1/brew.1
+/usr/local/share/zsh/site-functions/_brew
+/usr/local/etc/bash_completion.d/brew
+/usr/local/Homebrew
+==> The following new directories will be created:
+/usr/local/var/homebrew
+/usr/local/var/homebrew/linked
+
+Press RETURN to continue or any other key to abort
+Password:
+==> /usr/bin/sudo /bin/mkdir -p /usr/local/var/homebrew /usr/local/var/homebrew/linked
+==> /usr/bin/sudo /bin/chmod g+rwx /usr/local/var/homebrew /usr/local/var/homebrew/linked
+==> /usr/bin/sudo /usr/sbin/chown edz /usr/local/var/homebrew /usr/local/var/homebrew/linked
+==> /usr/bin/sudo /usr/bin/chgrp admin /usr/local/var/homebrew /usr/local/var/homebrew/linked
+==> Downloading and installing Homebrew...
+remote: Enumerating objects: 43, done.
+remote: Counting objects: 100% (43/43), done.
+remote: Compressing objects: 100% (43/43), done.
+remote: Total 135089 (delta 0), reused 43 (delta 0), pack-reused 135046
+Receiving objects: 100% (135089/135089), 32.61 MiB | 8.00 KiB/s, done.
+Resolving deltas: 100% (99272/99272), done.
+From https://github.com/Homebrew/brew
+ * [new branch]      master     -> origin/master
+ * [new tag]             0.1        -> 0.1
+ * [new tag]             0.2        -> 0.2
+ * [new tag]             0.3        -> 0.3
+	......
+ * [new tag]             2.2.9      -> 2.2.9
+HEAD is now at 20f7f266a Merge pull request #7415 from bayandin/fix-pushing-bottles
+==> Downloading https://homebrew.bintray.com/bottles-portable-ruby/portable-ruby-2.6.3.mavericks.bottle.tar.gz
+######################################################################## 100.0%
+==> Pouring portable-ruby-2.6.3.mavericks.bottle.tar.gz
+==> Homebrew is run entirely by unpaid volunteers. Please consider donating:
+  https://github.com/Homebrew/brew#donations
+==> Tapping homebrew/core
+Cloning into '/usr/local/Homebrew/Library/Taps/homebrew/homebrew-core'...
+remote: Enumerating objects: 66, done.
+remote: Counting objects: 100% (66/66), done.
+remote: Compressing objects: 100% (43/43), done.
+error: RPC failed; curl 56 LibreSSL SSL_read: SSL_ERROR_SYSCALL, errno 54
+fatal: the remote end hung up unexpectedly
+fatal: early EOF
+fatal: index-pack failed
+Error: Failure while executing; `git clone https://github.com/Homebrew/homebrew-core /usr/local/Homebrew/Library/Taps/homebrew/homebrew-core` exited with 128.
+Error: Failure while executing; `/usr/local/bin/brew tap homebrew/core` exited with 1.
+Failed during: /usr/local/bin/brew update --force
+==> Installation successful!
+
+==> Homebrew has enabled anonymous aggregate formulae and cask analytics.
+Read the analytics documentation (and how to opt-out) here:
+  https://docs.brew.sh/Analytics
+No analytics data has been sent yet (or will be during this `install` run).
+
+==> Homebrew is run entirely by unpaid volunteers. Please consider donating:
+  https://github.com/Homebrew/brew#donations
+
+==> Next steps:
+- Run `brew help` to get started
+- Further documentation:
+    https://docs.brew.sh
+ 😁  ~  brew -v
+Homebrew 2.2.13
+Homebrew/homebrew-core N/A
+ 😁  ~  brew installCloning into '/usr/local/Homebrew/Library/Taps/homebrew/homebrew-core'...
+install  -- install a formula
+install               install-bundler-gems
+ n        brew install n
+Killed by signal in __brew_formulae after 15s
+o         brew install no
+dilled by brew install node
+ ✘ 😁  ~  brew install Cloning into '/usr/local/Homebrew/Library/Taps/homebrew/homebrew-core'...
+
+
+n           brew install n
+ ✘ 😁  ~  brew install node
+Updating Homebrew...
+==> Tapping homebrew/core
+Cloning into '/usr/local/Homebrew/Library/Taps/homebrew/homebrew-core'...
+remote: Enumerating objects: 73, done.
+remote: Counting objects: 100% (73/73), done.
+remote: Compressing objects: 100% (48/48), done.
+remote: Total 710634 (delta 40), reused 48 (delta 25), pack-reused 710561
+Receiving objects: 100% (710634/710634), 287.60 MiB | 66.00 KiB/s, done.
+Resolving deltas: 100% (468137/468137), done.
+Checking out files: 100% (5204/5204), done.
+Tapped 2 commands and 4964 formulae (5,228 files, 315.3MB).
+==> Downloading https://homebrew.bintray.com/bottles/node-13.13.0_1.mojave.bottle.tar.gz
+==> Downloading from https://akamai.bintray.com/3a/3a8aafde7772232484ccd4be9ce5cc2f5dbca9c7157bd275d29
+######################################################################## 100.0%
+==> Pouring node-13.13.0_1.mojave.bottle.tar.gz
+Error: The `brew link` step did not complete successfully
+The formula built, but is not symlinked into /usr/local
+Could not symlink share/doc/node/gdbinit
+Target /usr/local/share/doc/node/gdbinit
+is a symlink belonging to node. You can unlink it:
+  brew unlink node
+
+To force the link and overwrite all conflicting files:
+  brew link --overwrite node
+
+To list all files that would be deleted:
+  brew link --overwrite --dry-run node
+
+Possible conflicting files are:
+/usr/local/share/doc/node/gdbinit -> /usr/local/Cellar/node/12.12.0/share/doc/node/gdbinit
+/usr/local/share/doc/node/lldb_commands.py -> /usr/local/Cellar/node/12.12.0/share/doc/node/lldb_commands.py
+/usr/local/share/man/man1/node.1 -> /usr/local/Cellar/node/12.12.0/share/man/man1/node.1
+/usr/local/share/systemtap/tapset/node.stp
+/usr/local/share/systemtap/tapset/node.stp
+==> Caveats
+Bash completion has been installed to:
+  /usr/local/etc/bash_completion.d
+==> Summary
+🍺  /usr/local/Cellar/node/13.13.0_1: 4,660 files, 60.2MB
+Removing: /usr/local/Cellar/node/12.12.0... (4,610 files, 54.3MB)
+ ✘ 😁  ~  node -v
+zsh: command not found: node
+ ✘ 😁  ~  brew install node
+Updating Homebrew...
+==> Auto-updated Homebrew!
+Updated 1 tap (homebrew/core).
+==> New Formulae
+gdbgui                                                                jc
+==> Updated Formulae
+aws-cdk                drafter                fastlane               freeling               hugo                   libpulsar
+
+Warning: node 13.13.0_1 is already installed, it's just not linked
+You can use `brew link node` to link this version.
+ 😁  ~  brew link node
+Linking /usr/local/Cellar/node/13.13.0_1... 12 symlinks created
+ 😁  ~  node -v
+dyld: Library not loaded: /usr/local/opt/icu4c/lib/libicui18n.64.dylib
+  Referenced from: /usr/local/bin/node
+  Reason: image not found
+[1]    79495 abort      node -v
+ ✘ 😁  ~  node -h
+dyld: Library not loaded: /usr/local/opt/icu4c/lib/libicui18n.64.dylib
+  Referenced from: /usr/local/bin/node
+  Reason: image not found
+[1]    80840 abort      node -h
+ ✘ 😁  ~  pwd
+/Users/edz
+ 😁  ~  brew uninstall node
+Uninstalling /usr/local/Cellar/node/13.13.0_1... (4,660 files, 60.2MB)
+ 😁  ~  brew install node
+Updating Homebrew...
+==> Downloading https://homebrew.bintray.com/bottles/node-13.13.0_1.mojave.bottle.tar.gz
+Already downloaded: /Users/edz/Library/Caches/Homebrew/downloads/9e1e2178a740577c4c60190be37f93db969be9f25b9239cf997fbf2f29f5b37c--node-13.13.0_1.mojave.bottle.tar.gz
+==> Pouring node-13.13.0_1.mojave.bottle.tar.gz
+==> Caveats
+Bash completion has been installed to:
+  /usr/local/etc/bash_completion.d
+==> Summary
+🍺  /usr/local/Cellar/node/13.13.0_1: 4,660 files, 60.2MB
+ 😁  ~  node -v
+dyld: Library not loaded: /usr/local/opt/icu4c/lib/libicui18n.64.dylib
+  Referenced from: /usr/local/bin/node
+  Reason: image not found
+[1]    82755 abort      node -v
+ ✘ 😁  ~  brew uninstall --force node
+Uninstalling node... (4,660 files, 60.2MB)
+ 😁  ~  brew uninstall icu4c && brew install icu4c
+Uninstalling /usr/local/Cellar/icu4c/64.2... (257 files, 69.2MB)
+Updating Homebrew...
+==> Downloading https://homebrew.bintray.com/bottles/icu4c-64.2.mojave.bottle.tar.gz
+==> Downloading from https://akamai.bintray.com/e8/e858556120acc0c2d52b8fb572b677856724cc28d24a7e1b2762d458a2977c8e?__gda__=exp=1587550608~
+######################################################################## 100.0%
+==> Pouring icu4c-64.2.mojave.bottle.tar.gz
+==> Caveats
+icu4c is keg-only, which means it was not symlinked into /usr/local,
+because macOS provides libicucore.dylib (but nothing else).
+
+If you need to have icu4c first in your PATH run:
+  echo 'export PATH="/usr/local/opt/icu4c/bin:$PATH"' >> ~/.zshrc
+  echo 'export PATH="/usr/local/opt/icu4c/sbin:$PATH"' >> ~/.zshrc
+
+For compilers to find icu4c you may need to set:
+  export LDFLAGS="-L/usr/local/opt/icu4c/lib"
+  export CPPFLAGS="-I/usr/local/opt/icu4c/include"
+          brew unlink icu4c && brew link icu4c –force
+Unlinking /usr/local/Cellar/icu4c/64.2... 0 symlinks removed
+Error: No such keg: /usr/local/Cellar/–force
+ ✘ 😁  ~  brew unlink icu4c && brew link icu4c –force
+Unlinking /usr/local/Cellar/icu4c/64.2... 0 symlinks removed
+Error: No such keg: /usr/local/Cellar/–force
+ ✘ 😁  ~  brew install node
+Updating Homebrew...
+==> Downloading https://homebrew.bintray.com/bottles/node-13.13.0_1.mojave.bottle.tar.gz
+Already downloaded: /Users/edz/Library/Caches/Homebrew/downloads/9e1e2178a740577c4c60190be37f93db969be9f25b9239cf997fbf2f29f5b37c--node-13.13.0_1.mojave.bottle.tar.gz
+==> Pouring node-13.13.0_1.mojave.bottle.tar.gz
+==> Caveats
+Bash completion has been installed to:
+  /usr/local/etc/bash_completion.d
+==> Summary
+🍺  /usr/local/Cellar/node/13.13.0_1: 4,660 files, 60.2MB
+ 😁  ~  node -v
+v13.13.0
+ 😁  ~ 
+
+
+
+
+
+
+
+
+
+
+ 😁  ~  rvm list
+=* ruby-2.6.3 [ x86_64 ]
+	 ruby-2.6.6 [ x86_64 ]
+	 
+# => - current
+# =* - current && default
+#  * - default
+          rvm --default use 2.6.6
+Using /Users/edz/.rvm/gems/ruby-2.6.6
+ 😁  ~  rvm list
+   ruby-2.6.3 [ x86_64 ]
+=* ruby-2.6.6 [ x86_64 ]
+
+# => - current
+# =* - current && default
+#  * - default
+
