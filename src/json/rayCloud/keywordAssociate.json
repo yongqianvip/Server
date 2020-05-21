@@ -1,0 +1,19 @@
+{
+  "code": "0",
+  "message": "成功",
+  "success": true,
+  "content": {
+    "brand": {
+      "title": "GUCCI品牌馆",
+      "subTitle": "商品·在营活动·动态",
+      "pic": "http://img.runwaygo.com/uwqer/uqwer.png"
+    },
+    "list": [
+      {"name": "1234"},
+      {"name": "12345"},
+      {"name": "123456"},
+      {"name": "1234567"},
+      {"name": "1234??????5678"}
+    ]
+  }
+}

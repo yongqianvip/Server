@@ -1,0 +1,56 @@
+{
+  "code": "0",
+  "message": "成功",
+  "success": true,
+  "content": {
+    "list": [
+      {
+        "type": "1",
+        "name": "领取优惠券",
+        "refAction ": "",
+        "refContent ": ""
+      },
+      {
+        "type": "2",
+        "name": "包包"
+      },
+      {
+        "type": "2",
+        "name": "女士上衣"
+      },
+      {
+        "type": "2",
+        "name": "男士西装"
+      },
+      {
+        "type": "2",
+        "name": "童鞋"
+      },
+      {
+        "type": "2",
+        "name": "成熟稳重风度翩翩"
+      },
+      {
+        "type": "2",
+        "name": "沉鱼落雁闭月羞花"
+      },
+      {
+        "type": "2",
+        "name": "这是个空的"
+      },
+      {
+        "type": "2",
+        "name": "Gucci"
+      },
+
+      {
+        "type": "2",
+        "name": "你买不起"
+      },
+      {
+        "type": "2",
+        "name": "我也买不起"
+      }
+    ]
+  }
+}
