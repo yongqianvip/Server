@@ -9,7 +9,7 @@
   "author": "yongqianvip",
   "license": "ISC",
   "dependencies": {
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "react-native-video-player": "git://github.com/yongqianvip/react-native-video-player.git#4.4.4"
   }
 }
